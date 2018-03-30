@@ -92,8 +92,6 @@
 
 5.7. Организаторы вправе вносить изменения в формат проведения
 
-## 6. Time
-
 ## 6. Расписание
 
 6.1. Игры группового этапа проходят в субботу 14 апреля. Время игр опубликовано на сайте [http://www.tabletennisit.com/tournaments/dnepr-open-2018.html](http://www.tabletennisit.com/tournaments/dnepr-open-2018.html).
