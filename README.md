@@ -1,4 +1,4 @@
-# Table Tennis IT Cup Dnepr Open 2018
+# Table Tennis IT Cup Kiev Open 2018
 
 1. [Цели и задачи](#1-Цели-и-задачи)
 2. [Участники турнира](#2-Участники-турнира)
@@ -94,11 +94,11 @@
 
 ## 6. Расписание
 
-6.1. Игры группового этапа проходят в субботу 14 апреля. Время игр опубликовано на сайте [http://www.tabletennisit.com/tournaments/dnepr-open-2018.html](http://www.tabletennisit.com/tournaments/dnepr-open-2018.html).
+6.1. Игры группового этапа проходят в субботу 7 июля. Время игр будет опубликовано на сайте [http://www.tabletennisit.com/tournaments/kiev-open-2018](http://www.tabletennisit.com/tournaments/kiev-open-2018).
 
 6.2. Игры третьего финала (для команд занявших 5 место в группе) проходят в субботу после групповой стадии в 18-30.
 
-6.3. Игры первого финала (для команд занявших 1-2 место в группе) начинаются в воскресенье 15 апреля в 9-00
+6.3. Игры первого финала (для команд занявших 1-2 место в группе) начинаются в воскресенье 8 июля в 9-00
 
 6.4. Игры второго финала (для команд занявших 3-4 место в группе) начинаются в воскресенье в 16-00
 
@@ -115,14 +115,12 @@
 
 ## 9. Место проведения
 
-Днепропетровск ул. Симферопольская, 17, корпус Б4, Днепр
+Теннисный Клуб Гурман ул. Нижнеюрковская, 31, Киев
 
-[http://www.tabletennisit.com/places/biggame.html](http://www.tabletennisit.com/places/biggame.html)
+[http://www.tabletennisit.com/places/gurman](http://www.tabletennisit.com/places/gurman)
 
 
 ## 10. Мячи турнира
-
-XUSHAOFA 3*** 40+, пластик
 
 Предоставляются организаторами перед началом соревнований (из расчёта 2 мяча на команду).
 
@@ -197,13 +195,9 @@ XUSHAOFA 3*** 40+, пластик
 
 ## 17. Оргкомитет
 
-Тимофей Плохой:  [timofeiplohoy@gmail.com](mailto:timofeiplohoy@gmail.com),
-skype: timplohoy,
-phone: 050 7626937, 093 4128027
-
-Павел Тимощенко: [paveltymoshchenko@gmail.com](mailto:paveltymoshchenko@gmail.com),
-skype: tymohat,
-phone: 066 6117863
+Кльоз Сергей: [sergii.kloz@gmail.com](sergii.kloz@gmail.com)
+skype: sergii_kloz
+phone: 050 073 35 30
 
 Игорь Палагута: [igor.palaguta@gmail.com](mailto:igor.palaguta@gmail.com),
 skype: igor.palaguta
