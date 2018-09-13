@@ -1,100 +1,119 @@
 Позиция	Название	Рейтинг
-1.	ZEO Alliance (Киев)	61.74
-2.	Noosphere (Запорожье)	56.57
-3.	EPAM (Днепр)	53.50
-4.	КБЮ (Днепр)	49.12
-5.	Luxoft (Днепр)	48.56
-6.	Samsung (Киев)	40.34
-7.	Ciklum (Харьков)	40.31
-8.	Ciklum (Днепр)	39.81
-9.	АЛЛО (Днепр)	39.23
-10.	SoftServe (Харьков)	35.73
-11.	GlobalLogic (Харьков)	33.90
-12.	Luxoft (Киев)	30.81
-13.	Sitecore (Днепр)	28.90
-14.	GlobalLogic (Киев)	28.12
-15.	Delphi (Винница)	27.00
-16.	DataArt (Днепр)	26.48
-17.	Innovecs (Киев)	25.52
-18.	Brightgrove-2 (Харьков)	24.55
-19.	ISD (Днепр)	23.53
-20.	Infopulse (Киев)	22.53
-21.	Noosphere (Днепр)	21.88
-22.	CHI Software (Харьков)	21.51
-23.	Archer (Днепр)	21.24
-24.	AgileEngine (Киев)	21.03
-25.	EPAM (Харьков)	20.50
-26.	Astound (Киев)	20.36
-27.	SSA Group (Харьков)	19.46
-28.	DB Best (Харьков)	19.38
-29.	Ciklum (Киев)	19.08
-30.	Ainstainer (Харьков)	18.64
-31.	Lime Systems (Киев)	18.41
-32.	Ciklum-2 (Днепр)	18.09
-33.	WizardsDev (Днепр)	17.60
-34.	PFSOFT (Днепр)	17.52
-35.	Ciklum-3 (Днепр)	17.00
-36.	CS Ltd (Харьков)	16.94
-37.	Yalantis (Днепр)	16.79
-38.	Mobindustry (Днепр)	15.70
-39.	AB Soft (Одесса)	15.66
-40.	NewGround (Киев)	15.49
-41.	Grossum (Киев)	15.46
-42.	Erminesoft (Харьков)	15.42
-43.	ООО Легион (Харьков)	15.36
-44.	AMC Bridge (Днепр)	14.40
-45.	ERC (Киев)	14.12
-46.	Ubisoft (Киев)	13.85
-47.	Svitla Systems (Харьков)	13.78
-48.	Innovecs-2 (Киев)	13.27
-49.	Intetics (Харьков)	13.24
-50.	Friendly Ukraine (Харьков)	13.03
-51.	SoftServe (Днепр)	12.67
-52.	Renatus (Запорожье)	12.49
-53.	EVO.company (Киев)	12.47
-54.	Ukrsibbank (Днепр)	12.44
-55.	M2E Pro (Днепр)	12.43
-56.	Glorium Technologies (Киев)	12.40
-57.	Admixer (Киев)	12.38
-58.	Fortegroup (Тернополь)	12.37
-59.	EKTOS-UKRAINE LCC (Харьков)	12.14
-60.	Приднепровская ЖД (Днепр)	12.06
-61.	Tubik Studio (Днепр)	12.00
-62.	EPAM-2 (Днепр)	12.00
-63.	PHOENIX MEDIA (Харьков)	11.74
-64.	AgileEngine (Харьков)	11.48
-65.	Apriorit (Днепр)	11.37
-66.	Brightgrove (Харьков)	11.11
-67.	Paymentwall (Киев)	11.03
-68.	SysGears (Днепр)	10.74
-69.	Cleveroad (Днепр)	10.68
-70.	Adstream (Киев)	10.60
-71.	ПриватБанк (Днепр)	10.55
-72.	Applikey Solutions (Харьков)	10.54
-73.	Марка (Запорожье)	10.53
-74.	Anadea (Днепр)	10.45
-75.	Tiamondo (Харьков)	10.41
-76.	Ciklum girls (Харьков)	10.36
-77.	Playtika (Днепр)	10.33
-78.	Exigen (Днепр)	9.10
-79.	Valtech (Киев)	9.08
-80.	Lucky Labs-2 (Киев)	8.85
-81.	Lucky Labs (Киев)	8.75
-82.	Zfort (Харьков)	8.64
-83.	Демикс (Днепр)	8.37
-84.	Together Network (Днепр)	8.08
-85.	HeadWorks (Днепр)	7.76
-86.	IT Dnipro Community (Днепр)	7.36
-87.	Space System Engineering (Днепр)	7.31
-88.	Unicreo (Днепр)	7.27
-89.	AnvilEight (Харьков)	7.19
-90.	Yalantis-2 (Днепр)	7.00
-91.	Hideez (Киев)	3.78
-92.	DAXX-2 (Днепр)	3.67
-93.	Dinarys LLC (Днепр)	3.09
-94.	Baaz (Днепр)	2.72
-95.	SoftServe-2 (Днепр)	2.67
-96.	DAXX (Харьков)	1.27
-97.	MURKA (Днепр)	1.10
-98.	Ardas (Днепр)	1.00
-99.	DAXX (Днепр)	1.00
+1. ZEO Alliance (Киев) 61.74
+2. EPAM (Днепр) 57.59
+3. Noosphere (Запорожье) 56.57
+4. Samsung (Киев) 52.35
+5. КБЮ (Днепр) 49.12
+6. Luxoft (Днепр) 48.56
+7. SoftServe (Харьков) 44.80
+8. АЛЛО (Днепр) 44.72
+9. Ciklum (Харьков) 40.31
+10. Ciklum (Днепр) 39.81
+11. GlobalLogic (Киев) 35.17
+12. GlobalLogic (Харьков) 33.63
+13. Luxoft (Киев) 30.81
+14. Infopulse (Киев) 29.30
+15. DataArt (Днепр) 28.89
+16. Evoplay (Киев) 28.38
+17. Delphi (Винница) 27.00
+18. Sigma Software (Харьков) 24.69
+19. Brightgrove-2 (Харьков) 24.55
+20. Innovecs (Киев) 24.38
+21. Sitecore (Днепр) 24.34
+22. Ciklum (Киев) 23.01
+23. Astound (Киев) 22.72
+24. ERC (Киев) 22.08
+25. Noosphere (Днепр) 21.88
+26. Archer (Днепр) 21.24
+27. AgileEngine (Киев) 21.03
+28. GeeksForLess (Николаев) 20.87
+29. CHI Software (Харьков) 20.79
+30. Intersog (Одесса) 20.70
+31. EPAM (Харьков) 20.50
+32. SSA Group (Харьков) 19.46
+33. DB Best (Харьков) 19.38
+34. Ainstainer (Харьков) 18.64
+35. Lime Systems (Киев) 18.41
+36. Ciklum-2 (Днепр) 18.09
+37. ISD (Днепр) 18.04
+38. WizardsDev (Днепр) 17.60
+39. PFSOFT (Днепр) 17.52
+40. Materialise (Киев) 17.47
+41. Wargaming (Киев) 17.28
+42. SoftServe (Днепр) 17.17
+43. Intetics (Киев) 17.17
+44. Innovecs-2 (Киев) 17.05
+45. Ciklum-3 (Днепр) 17.00
+46. CS Ltd (Харьков) 16.94
+47. Yalantis (Днепр) 16.79
+48. Genesis (Киев) 15.83
+49. Mobindustry (Днепр) 15.70
+50. AB Soft (Одесса) 15.66
+51. NewGround (Киев) 15.49
+52. Erminesoft (Харьков) 15.42
+53. ООО "Легион" (Харьков) 15.36
+54. AMC Bridge (Днепр) 14.40
+55. Levi9 (Киев) 14.34
+56. Scalors GmbH (Киев) 14.01
+57. Samsung-2 (Киев) 13.86
+58. Svitla Systems (Харьков) 13.78
+59. EVO.company (Киев) 13.59
+60. Intetics (Харьков) 13.24
+61. Friendly Ukraine (Харьков) 13.03
+62. Ukrsibbank (Днепр) 12.44
+63. M2E Pro (Днепр) 12.43
+64. Glorium Technologies (Киев) 12.40
+65. Redwerk (Киев) 12.39
+66. Admixer (Киев) 12.38
+67. Skywind (Киев) 12.37
+68. Fortegroup (Тернополь) 12.37
+69. Evoplay-2 (Киев) 12.34
+70. DAXX (Киев) 12.32
+71. EKTOS-UKRAINE LCC (Харьков) 12.14
+72. Приднепровская ЖД (Днепр) 12.06
+73. Tubik Studio (Днепр) 12.00
+74. EPAM-2 (Днепр) 12.00
+75. PHOENIX MEDIA (Харьков) 11.74
+76. AgileEngine (Харьков) 11.48
+77. Apriorit (Днепр) 11.37
+78. Brightgrove (Харьков) 11.11
+79. Paymentwall (Киев) 11.03
+80. SysGears (Днепр) 10.74
+81. Cleveroad (Днепр) 10.68
+82. Govitall (Киев) 10.68
+83. Adstream (Киев) 10.60
+84. SMART business (Киев) 10.59
+85. ПриватБанк (Днепр) 10.55
+86. Applikey Solutions (Харьков) 10.54
+87. Марка (Запорожье) 10.53
+88. Anadea (Днепр) 10.45
+89. Tiamondo (Харьков) 10.41
+90. Ciklum girls (Харьков) 10.36
+91. Playtika (Днепр) 10.33
+92. Exigen (Днепр) 9.10
+93. Valtech (Киев) 9.08
+94. Lucky Labs-2 (Киев) 8.85
+95. Lucky Labs (Киев) 8.75
+96. Zfort (Харьков) 8.64
+97. Демикс (Днепр) 8.37
+98. Together Network (Днепр) 8.08
+99. The APP Solutions (Киев) 7.79
+100. HeadWorks (Днепр) 7.76
+101. Svitla Systems (Киев) 7.39
+102. IT Dnipro Community (Днепр) 7.36
+103. Space System Engineering (Днепр) 7.31
+104. Unicreo (Днепр) 7.27
+105. AnvilEight (Харьков) 7.19
+106. Yalantis-2 (Днепр) 7.00
+107. VARTEQ (Киев) 6.89
+108. Ubisoft (Киев) 5.75
+109. Hideez (Киев) 3.78
+110. DAXX-2 (Днепр) 3.67
+111. Renatus (Запорожье) 3.37
+112. Dinarys LLC (Днепр) 3.09
+113. Baaz (Днепр) 2.72
+114. SoftServe-2 (Днепр) 2.67
+115. DAXX (Харьков) 1.27
+116. MURKA (Днепр) 1.10
+117. Ardas (Днепр) 1.00
+118. DAXX (Днепр) 1.00
