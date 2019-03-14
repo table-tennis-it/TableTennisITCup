@@ -258,7 +258,7 @@ skype: timplohoy
 phone: 050 7626937, 093 4128027
 
 Павел Тимощенко: [paveltymoshchenko@gmail.com](mailto:paveltymoshchenko@gmail.com)
-skype: pavel1971338
+skype: tymohat
 phone: 066 6117863
 
 Игорь Палагута: [igor.palaguta@gmail.com](mailto:igor.palaguta@gmail.com)
