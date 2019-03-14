@@ -99,7 +99,7 @@
 
 6.1. После того, как все команды подтвердили свое участие взносом. На сайте появится упорядоченный список команд.
 
-При посеве учитываются [личный](https://github.com/table-tennis-it/TableTennisITCup/blob/dnepr-open-2019/personal-rating.tsv) и [командный](https://github.com/table-tennis-it/TableTennisITCup/blob/dnepr-open-2019/rating.tsv) рейтинг.
+При посеве учитываются [личный](http://www.tabletennisit.com/ratings?orderBy=it) и [командный](https://github.com/table-tennis-it/TableTennisITCup/blob/dnepr-open-2019/rating.tsv) рейтинг.
 
 В суммарный командный рейтинг идет сумма 3 игроков с наивысшим личным рейтингом.
 Если есть новые игроки без личного IT рейтинга, но с ФНТУ* или TTW их мы переводим в IT (используя отношения рейтингов Плохого Тимофея (#1 IT Рейтинга)) и берем максимальный из получившихся.
