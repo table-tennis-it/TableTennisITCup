@@ -40,21 +40,21 @@
 39.	sahnik-mihail	Сахник Михаил	19.743
 40.	kovalev-evgenij	Ковалев Евгений Викторович	19.724
 41.	kalasnikov-vladimir	Калашников Владимир	19.679
-42.	lavrinenko-pavel	Лавриненко Павел	19.515
-43.	fomin-aleksandr	Фомин Александр Андреевич	19.514
-44.	nerus-polina	Неруш Полина	19.270
-45.	hripcenko-denis	Хрипченко Денис	19.055
-46.	kalinicenko-vladimir	Калиниченко Владимир	19.051
-47.	panov-roman	Панов Роман Юрьевич	18.979
-48.	dudcenko-viktoria	Дудченко Виктория Юрьевна	18.930
-49.	dola-andrej	Доля Андрей	18.835
-50.	palaguta-igor	Палагута Игорь	18.803
-51.	zenchenko-ivan	Зенченко Иван	18.743
-52.	zaporozec-sergej	Запорожец Сергей	18.611
-53.	spurik-konstantin	Шпурик Константин	18.561
-54.	fialko-nikita	Фиялко Никита Алексеевич	18.526
-55.	sharykin-anton	Шарыкин Антон	18.523
-56.	grigorenko-stepan	Григоренко Степан	18.381
+42.	grigorenko-stepan	Григоренко Степан	19.640
+43.	lavrinenko-pavel	Лавриненко Павел	19.515
+44.	fomin-aleksandr	Фомин Александр Андреевич	19.514
+45.	nerus-polina	Неруш Полина	19.270
+46.	hripcenko-denis	Хрипченко Денис	19.055
+47.	kalinicenko-vladimir	Калиниченко Владимир	19.051
+48.	panov-roman	Панов Роман Юрьевич	18.979
+49.	dudcenko-viktoria	Дудченко Виктория Юрьевна	18.930
+50.	dola-andrej	Доля Андрей	18.835
+51.	palaguta-igor	Палагута Игорь	18.803
+52.	zenchenko-ivan	Зенченко Иван	18.743
+53.	zaporozec-sergej	Запорожец Сергей	18.611
+54.	spurik-konstantin	Шпурик Константин	18.561
+55.	fialko-nikita	Фиялко Никита Алексеевич	18.526
+56.	sharykin-anton	Шарыкин Антон	18.523
 57.	krivosej-igor	Кривошей Игорь Сергеевич	18.372
 58.	neceporenko-vadim	Нечепоренко Вадим Григорьеьвич	18.242
 59.	volodarskiy-andrey	Володарский Андрей	18.119
@@ -102,13 +102,13 @@
 101.	peslak-urij-sergeevic	Песляк Юрий Сергеевич	15.486
 102.	sumilov-vladimir	Шумилов Владимир	15.477
 103.	indicenko-maksim	Индиченко Максим	15.335
-104.	maslov-aleksandr	Маслов Александр	15.260
-105.	kajdorovic-urij	Кайдорович Юрий	15.246
-106.	cajnikova-anna	Чайникова Анна	15.200
-107.	kernickij-aroslav	Керницкий Ярослав	15.178
-108.	sandrinov-semen	Шандринов Семен	15.164
-109.	zyranov-vladimir	Зырянов Владимир Александрович	15.107
-110.	krivenko-dmitrij	Кривенко Дмитрий	14.906
+104.	krivenko-dmitrij	Кривенко Дмитрий	15.289
+105.	maslov-aleksandr	Маслов Александр	15.260
+106.	kajdorovic-urij	Кайдорович Юрий	15.246
+107.	cajnikova-anna	Чайникова Анна	15.200
+108.	kernickij-aroslav	Керницкий Ярослав	15.178
+109.	sandrinov-semen	Шандринов Семен	15.164
+110.	zyranov-vladimir	Зырянов Владимир Александрович	15.107
 111.	burdelnyj-sergej	Бурдельный Сергей	14.904
 112.	kustol-oleg	Кустол Олег Александрович	14.903
 113.	demcenko-stanislav	Демченко Станислав	14.882
@@ -133,682 +133,695 @@
 132.	terzian-sergej	Терзиян Сергей Меликович	13.924
 133.	homenko-andrej	Хоменко Андрей	13.912
 134.	fedorov-stanislav	Федоров Станислав	13.885
-135.	sevcenko-oleg	Шевченко Олег Александрович	13.739
-136.	gordinskaa-anastasia	Гординская Анастасия	13.727
-137.	podlesnyj-oleg	Подлесный Олег Юрьевич	13.656
-138.	babin-vladimir	Бабин Владимир	13.626
-139.	kostisin-kirill	Костишин Кирилл	13.602
-140.	mihajlisuk-vladimir	Михайлищук Владимир	13.583
-141.	voronov-sergej	Воронов Сергей Иванович	13.494
-142.	polukov-evgenij	Полуков Евгений	13.491
-143.	postnikov-artem	Постников Артем	13.465
-144.	tkac-vladimir	Ткач Владимир	13.451
-145.	pavlov-artem	Павлов Артем	13.438
-146.	kibanov-vadim	Кибанов Вадим	13.376
-147.	cigarkov-aleksej	Чигарьков Алексей	13.373
-148.	spiller-aleksandr	Шпиллер Александр	13.340
-149.	kazmirovskij-ivan	Казмировский Иван	13.335
-150.	arefa-evgenij	Арефа Евгений	13.291
-151.	zbukar-andrej	Збукар Андрей	13.284
-152.	kanasin-sergej	Канашин Сергей	13.260
-153.	galuskin-pavel	Галушкин Павел	13.253
-154.	kravchenko-marat	Кравченко Марат	13.228
-155.	buanov-pavel	Буянов Павел	13.220
-156.	urkevic-gennadij	Юркевич Геннадий	13.215
-157.	driga-oleg	Дрига Олег	13.174
-158.	komasko-aleksandr-sergeevic-2000	Комашко Александр Сергеевич	13.030
-159.	misenko-vadim	Мищенко Вадим	13.026
-160.	romanov-maksim	Романов Максим Вячеславович	12.980
-161.	sevcuk-dmitrij	Шевчук Дмитрий	12.932
-162.	necaj	Нечай Владимир	12.906
-163.	turok-vlad	Турок Владислав	12.862
-164.	besta-viktor	Бешта Виктор Сергеевич	12.834
-165.	brindzak-mihail	Брындзак Михаил	12.819
-166.	maksimov-leonid	Максимов Леонид	12.794
-167.	golotuk-vitalij	Голотюк Виталий	12.778
-168.	ustimenko-sergej	Устименко Сергей	12.770
-169.	raboj-georgij	Рябой Георгий	12.754
-170.	malarenko-vitalij	Маляренко Виталий	12.741
-171.	gula-aroslav	Гула Ярослав	12.717
-172.	antonenko-aleksej	Антоненко Алексей	12.684
-173.	razumovskij-viktor	Разумовский Виктор	12.679
-174.	urkov-maksim	Юрков Максим	12.671
+135.	urkov-maksim	Юрков Максим	13.863
+136.	sevcenko-oleg	Шевченко Олег Александрович	13.739
+137.	gordinskaa-anastasia	Гординская Анастасия	13.727
+138.	podlesnyj-oleg	Подлесный Олег Юрьевич	13.656
+139.	babin-vladimir	Бабин Владимир	13.626
+140.	kostisin-kirill	Костишин Кирилл	13.602
+141.	mihajlisuk-vladimir	Михайлищук Владимир	13.583
+142.	voronov-sergej	Воронов Сергей Иванович	13.494
+143.	polukov-evgenij	Полуков Евгений	13.491
+144.	postnikov-artem	Постников Артем	13.465
+145.	tkac-vladimir	Ткач Владимир	13.451
+146.	pavlov-artem	Павлов Артем	13.438
+147.	kibanov-vadim	Кибанов Вадим	13.376
+148.	cigarkov-aleksej	Чигарьков Алексей	13.373
+149.	spiller-aleksandr	Шпиллер Александр	13.340
+150.	kazmirovskij-ivan	Казмировский Иван	13.335
+151.	arefa-evgenij	Арефа Евгений	13.291
+152.	zbukar-andrej	Збукар Андрей	13.284
+153.	kanasin-sergej	Канашин Сергей	13.260
+154.	galuskin-pavel	Галушкин Павел	13.253
+155.	kravchenko-marat	Кравченко Марат	13.228
+156.	buanov-pavel	Буянов Павел	13.220
+157.	urkevic-gennadij	Юркевич Геннадий	13.215
+158.	driga-oleg	Дрига Олег	13.174
+159.	komasko-aleksandr-sergeevic-2000	Комашко Александр Сергеевич	13.030
+160.	misenko-vadim	Мищенко Вадим	13.026
+161.	romanov-maksim	Романов Максим Вячеславович	12.980
+162.	sevcuk-dmitrij	Шевчук Дмитрий	12.932
+163.	necaj	Нечай Владимир	12.906
+164.	turok-vlad	Турок Владислав	12.862
+165.	besta-viktor	Бешта Виктор Сергеевич	12.834
+166.	brindzak-mihail	Брындзак Михаил	12.819
+167.	maksimov-leonid	Максимов Леонид	12.794
+168.	golotuk-vitalij	Голотюк Виталий	12.778
+169.	ustimenko-sergej	Устименко Сергей	12.770
+170.	raboj-georgij	Рябой Георгий	12.754
+171.	malarenko-vitalij	Маляренко Виталий	12.741
+172.	gula-aroslav	Гула Ярослав	12.717
+173.	antonenko-aleksej	Антоненко Алексей	12.684
+174.	razumovskij-viktor	Разумовский Виктор	12.679
 175.	krutanskij-aleksandr-vaceslavovic-1982	Крутянский Александр Вячеславович	12.505
 176.	sribnak-andrej	Срибняк Андрей	12.502
 177.	solomencuk-pavel	Соломенчук Павел	12.482
-178.	najdenov-vitalij	Найденов Виталий	12.415
-179.	lebedev-nikolaj	Лебедев Николай	12.411
-180.	mironec-roman	Миронец Роман Владимирович	12.340
-181.	sevcenko-maksim	Шевченко Максим	12.309
-182.	rubincik-olga	Рубинчик Ольга	12.303
-183.	galena-oleg	Галеня Олег	12.291
-184.	borisenko-andrej	Борисенко Андрей	12.257
-185.	vilch-aleksandr	Вильч Александр	12.254
-186.	borovec-petr	Боровец Петр	12.253
-187.	zaporozec-aleksej	Запорожец Алексей	12.248
-188.	kozan-evgenij	Кожан Евгений	12.245
-189.	svajdeckij-vladislav	Швайдецкий Владислав	12.212
-190.	kaminskij-sergej	Каминский Сергей Эдуардович	12.201
-191.	belous-konstantin	Белоус Константин Викторович	12.191
-192.	sahno-anastasia	Сахно Анастасия	12.160
-193.	mihajlova-olga	Михайлова Ольга	12.136
-194.	kozakov-ivan	Козаков Иван	12.122
-195.	medvedev-vladimir	Медведев Владимир Владимирович	12.078
-196.	fadeev-maksim	Фадеев Максим	12.057
-197.	zih-vladislav	Жих Владислав	12.035
-198.	zubaha-andrej	Зубаха Андрей	12.013
-199.	kornev-aleksandr	Корнев Александр Сергеевич	11.973
-200.	belokamenskij-marat	Белокаменский Марат	11.969
-201.	gordienko-evgenij	Гордиенко Евгений	11.953
-202.	sartakov-dmitrij	Сартаков Дмитрий	11.927
-203.	rozin-andrej	Розин Андрей	11.903
-204.	cigilik-lubomir	Цигилик Любомир	11.896
-205.	volkov-evgenij	Волков Евгений	11.862
-206.	potapov-aleksandr	Потапов Александр	11.843
-207.	zuravleva-tatana	Журавлева Татьяна	11.831
-208.	dudnik-evgenij	Дудник Евгений	11.818
-209.	katola-oleg	Катола Олег	11.809
-210.	vlasov-sergej	Власов Сергей	11.799
-211.	hristan-andrej	Христян Андрей	11.796
-212.	didenko-dmitrij	Диденко Дмитрий	11.782
-213.	kusakov-aleksandr	Кусаков Александр	11.755
-214.	prihodko-dmitrij	Приходько Дмитрий	11.754
-215.	veresaga-ivan	Верещага Иван	11.737
-216.	lysenko-aleksandr	Лысенко Александр	11.719
-217.	urcenko-nikita-vladimirovic	Юрченко Никита Владимирович	11.670
-218.	cernyj-aleksandr	Черный Александр	11.640
-219.	nebesnuk-vladislav	Небеснюк Владислав	11.636
-220.	ivanikin-oleg	Иваникин Олег	11.633
-221.	rogacev-dmitrij	Рогачёв Дмитрий	11.616
-222.	komarov-andrej	Комаров Андрей	11.611
-223.	avdeenko-evgenij	Авдеенко Евгений	11.603
-224.	uzenkov-aleksandr	Уженков Александр	11.600
-225.	bilcenko-denis	Бильченко Денис	11.598
-226.	ponomarenko-roman	Пономаренко Роман	11.550
-227.	chornenkiy-nazar	Чорненький Назар	11.528
-228.	muha-evgenij	Муха Евгений	11.524
-229.	shchepilov-igor	Щепилов Игорь	11.520
-230.	salmanovic-aleksandr	Сальманович Александр	11.512
-231.	zarskij-anton	Жарский Антон	11.508
-232.	rud-evgenij	Рудь Евгений	11.503
-233.	lucko-dmitrij	Лучко Дмитрий	11.497
-234.	polincuk-dmitrij	Полинчук Дмитрий	11.486
-235.	lisovoj-vitalij	Лисовой Виталий	11.478
-236.	segel-sergej	Щегель Сергей	11.476
-237.	tihonuk-vladislav	Тихонюк Владислав	11.460
-238.	palamarcuk-roman	Паламарчук Роман	11.448
-239.	kryzanovskij-anton	Крыжановский Антон	11.445
-240.	gorbacenko-vladimir	Горбаченко Владимир	11.440
-241.	vinogradov-vaceslav	Виноградов Вячеслав	11.438
-242.	geraskin-aleksandr	Гераскин Александр	11.419
-243.	bondatij-viktor	Бондатий Виктор Викторович	11.410
-244.	selehov-sergej	Шелехов Сергей	11.400
-245.	tomah-aleksandr	Томах Александр	11.398
-246.	oparysev-evgenij	Опарышев Евгений	11.395
-247.	visnevskij-vladimir-valerevic	Вишневский Владимир Валерьевич	11.371
-248.	ulasin-sergej	Ульяшин Сергей	11.363
-249.	maca-andrej	Маца Андрей	11.351
-250.	demancuk-evgenij-dmitrievic	Демьянчук Евгений Дмитриевич	11.319
-251.	nerus-lilia	Неруш Лилия	11.314
-252.	urev-vitalij	Юрьев Виталий	11.308
-253.	koval-oleg	Коваль Олег	11.307
-254.	makovenko-ila	Маковенко Илья	11.306
-255.	svec-konstantin-vladimirovic	Швец Константин Владимирович	11.302
-256.	konoval-vladimir	Коновал Владимир	11.283
-257.	pavlov-vladislav	Павлов Владислав Александрович	11.273
-258.	lazurenko-aleksandr	Лазуренко Александр	11.261
-259.	voronic-anton	Воронич Антон	11.261
-260.	konovalov-oleg	Коновалов Олег	11.249
-261.	gurin-ivan	Гурин Иван	11.244
-262.	kipic-vitalij	Кипич Виталий	11.244
-263.	komin-gennadij-vk	Комин Геннадий	11.243
-264.	tareev-vladimir	Тареев Владимир	11.233
-265.	lubcenko-valentin	Любченко Валентин	11.216
-266.	kristapovic-ivan	Криштапович Иван	11.201
-267.	panko-evgenij	Панько Евгений	11.188
-268.	gripas-igor	Грипас Игорь	11.173
-269.	kusnir-ruslan	Кушнир Руслан	11.148
-270.	nikitcenko-igor	Никитченко Игорь	11.134
-271.	zemcov-aroslav	Земцов Ярослав	11.123
-272.	kozlov-andrej	Козлов Андрей	11.119
-273.	domanskij-pavel	Доманский Павел	11.100
-274.	volos-maksim	Волос Максим	11.100
-275.	muzycuk-sergej	Музычук Сергей	11.094
-276.	oprysko-oleg	Опрышко Олег	11.062
-277.	nesterenko-dmitrij	Нестеренко Дмитрий Анатольевич	11.046
-278.	sramko-	Шрамко Андрей	11.026
-279.	pavlovskij-vladislav	Павловский Владислав	11.006
-280.	smolij-valentin	Смолий Валентин	10.984
-281.	rasba-boris	Рашба Борис	10.971
-282.	mozaz-oleg	Мозяж Олег	10.951
-283.	advicuk-pavel	Ядвичук Павел	10.936
-284.	dit-vladimir	Дит Владимир	10.934
-285.	zih-evgenij	Жих Евгений	10.927
-286.	zavolovic-evgenij	Заволович Евгений	10.926
-287.	pidletejcuk-viktor	Пидлетейчук Виктор	10.921
-288.	lukanov-ila	Лукьянов Илья	10.920
-289.	zabolotnyj-sergej	Заболотный Сергей	10.876
-290.	aveckij-evgenij	Явецкий Евгений	10.874
-291.	silov-konstantin	Шилов Константин	10.874
-292.	timosuk-oleg	Тимощук Олег	10.866
-293.	kluka-vladimir	Клюка Владимир	10.847
-294.	kizil-roman-vaceslavovic	Кизиль Роман Вячеславович	10.829
-295.	zamkovenko-andrej	Замковенко Андрей Васильевич	10.825
-296.	talasko-sergej	Талашко Сергей	10.818
-297.	kosmaj-mihail-1989	Кошмай Михаил Михайлович	10.810
-298.	platon-vitalij	Платон Виталий	10.807
-299.	kalinicenko-aleksandr	Калиниченко Александр	10.801
-300.	muranov-aleksandr	Муранов Александр	10.799
-301.	apanasenko-aleksej	Апанасенко Алексей	10.796
-302.	mihasak-evgenij	Михасяк Евгений	10.786
-303.	kotik-anton	Котик Антон	10.774
-304.	kotlar-mihail	Котляр Михаил	10.752
-305.	stoanov-aleksej-ivanovic-1981	Стоянов Алексей Иванович	10.747
-306.	glusakov-dmitrij	Глушаков Дмитрий	10.743
-307.	nikitin-vladimir	Никитин Владимир	10.742
-308.	danilov-mihail	Данилов Михаил	10.734
-309.	avoriv-roman	Яворив Роман	10.713
-310.	zinenko-vlad	Зиненко Влад	10.712
-311.	bedrickij-ila	Бедрицкий Илья	10.709
-312.	volovelskaa-irina	Воловельская Ирина	10.697
-313.	lavygin-sergej	Ловыгин Сергей	10.687
-314.	fesenko-sergej	Фесенко Сергей	10.682
-315.	kozusko-aleksej	Кожушко Алексей	10.677
-316.	neciporenko-evgenij	Нечипоренко Евгений	10.676
-317.	subov-aleksandr	Шубов Александр	10.663
-318.	kravcuk-anton-andreevic-1998	Кравчук Антон Андреевич	10.662
-319.	mikituk-vasilij	Микитюк Василий	10.632
-320.	levcuk-vladimir	Левчук Владимир	10.624
-321.	savcenko-andrej	Савченко Андрей Геннадьевич	10.618
-322.	goncarov-dmitrij-sergeevich	Гончаров Дмитрий Сергеевич	10.617
-323.	pomingalov-oleg	Помингалов Олег	10.611
-324.	aremcuk-oleg	Яремчук Олег	10.608
-325.	bozko-ivan	Божко Иван Константинович	10.599
-326.	alcevanovic-dmitrij	Альциванович Дмитрий	10.594
-327.	sulima-oleg	Сулима Олег	10.570
-328.	makarov-aleksej	Макаров Алексей	10.569
-329.	bucackij-sergej	Бучацкий Сергей	10.552
-330.	ruzevic-andrej	Ружевич Андрей	10.551
-331.	kacaraba-maran	Качараба Марьян	10.547
-332.	sidorenko-dmitrij	Сидоренко Дмитрий	10.546
-333.	gracev-valerij	Грачев Валерий	10.542
-334.	sidor-taras	Сидор Тарас	10.542
-335.	nagirniy-ivan	Нагирный Иван	10.534
-336.	postelga-ivan	Постельга Иван	10.531
-337.	berezovskij-andrej	Березовский Андрей	10.522
-338.	mazurenko-urij	Мазуренко Юрий	10.510
-339.	bucko-taras	Бучко Тарас	10.510
-340.	pavluk-ivan	Павлюк Иван	10.509
-341.	guk-dmitrij	Гук Дмитрий	10.503
-342.	sidorcuk-maksim	Сидорчук Максим Сергеевич	10.497
-343.	byjnik-pavel	Быйник Павел	10.496
-344.	smetana-dmitrij	Сметана Дмитрий	10.493
-345.	gederin-r	Гедерин Руслан	10.490
-346.	gladyj-anton	Глядый Антон	10.487
-347.	dobrovolskij-n	Добровольский  	10.475
-348.	selukov-vitalij	Селюков Виталий	10.474
-349.	mirosnicenko-danil	Мирошниченко Данил	10.470
-350.	kulesov-dmitrij	Кулешов Дмитрий	10.467
-351.	urazovskaa-aleksandra	Уразовская Александра	10.461
-352.	tinkovan-aleksandr	Тинкован Александр	10.455
-353.	spesivcev-valerij	Спесивцев Валерий	10.454
-354.	kiselev-aleksej	Киселев Алексей	10.453
-355.	molosnyj-aleksandr	Молошный Александр	10.451
-356.	komarov-dmitrij	Комаров Дмитрий	10.404
-357.	ergin-anton	Ергин Антон	10.394
-358.	terkeckij-vladimir	Теркецкий Владимир	10.393
-359.	udod-vladislav	Удод Владислав	10.392
-360.	burackovskij-denis	Бурячковский Денис	10.392
-361.	paholuk-sergej	Пахолюк Сергей	10.390
-362.	novikov--	Новиков  	10.390
-363.	barinov-viktor	Баринов Виктор	10.382
-364.	snurovoj-valerij	Шнуровой Валерий	10.382
-365.	ognarev-evgenij	Огнарёв Евгений	10.372
-366.	sedov-viktor	Седов Виктор	10.370
-367.	panuskin-andrej	Панюшкин Андрей Валерьевич	10.359
-368.	mylasko-maksim	Мылашко Максим	10.351
-369.	grigorcuk-aleksandr	Григорчук Александр	10.349
-370.	mihalevic-aleksej	Михалевич Алексей	10.348
-371.	geleta-taras	Гелета Тарас	10.341
-372.	los-vadim	Лось Вадим	10.336
-373.	zadoroznyj-kirill	Задорожный Кирилл	10.333
-374.	galusevskij-sergej	Галушевский Сергей	10.332
-375.	pogorelovskij-dmitrij	Погореловский Дмитрий	10.326
-376.	kovalcuk-andrej	Ковальчук Андрей	10.324
-377.	gajducok-vitalij	Гайдучок Виталий	10.305
-378.	ziruk-vladimir	Жирук Владимир	10.304
-379.	pelih-pavel	Пелих Павел	10.303
-380.	acuk-vsevolod	Яцюк Всеволод	10.303
-381.	stecenko-dmitrij	Стеценко Дмитрий	10.302
-382.	zamkovoj-maksim	Замковой Максим	10.288
-383.	padlak-urij	Падляк Юрий	10.288
-384.	acuk-bogdan	Яцук Богдан	10.288
-385.	skrizevskij-dmitrij	Скрижевский Дмитрий	10.278
-386.	legkij-anatolij	Легкий Анатолий Сергеевич	10.273
-387.	vyhristuk-nikolaj	Выхристюк Николай	10.262
-388.	birukov-aleksandr	Бирюков Александр	10.261
-389.	dmitrasevic-orest	Дмитрасевич Орест	10.259
-390.	kolesnik-vitalij-vladimirovic	Колесник Виталий Владимирович	10.257
-391.	petrenko-viktor	Петренко Виктор	10.256
-392.	novik-nikolay	Новик Николай	10.249
-393.	dacina-aroslav	Дацина Ярослав	10.249
-394.	malinkin-aleksej	Малинкин Алексей	10.247
-395.	coric-maksim	Чорич Максим	10.246
-396.	kurcenko-vladimir	Курченко Владимир	10.244
-397.	stankov-urij	Станков Юрий	10.234
-398.	golubenko-igor	Голубенко Игорь	10.234
-399.	prihodko-	Приходько Дарья	10.227
-400.	tarasenko-denis	Тарасенко Денис	10.224
-401.	murasko-andrej	Мурашко Андрей	10.223
-402.	stasuk-vitalij	Стасюк Виталий Дмитриевич	10.220
-403.	zuzanskij-urij	Зузанский Юрий	10.217
-404.	melasuk-stanislav	Мелащук Станислав	10.216
-405.	sulga-vladimir	Шульга Владимир Ильич	10.214
-406.	golubisko-aleksandr-sergeevic	Голубишко Александр Сергеевич	10.209
-407.	grib-sergej	Гриб Сергей	10.207
-408.	krotov-roman	Кротов Роман	10.182
-409.	stasuk-maksim	Стасюк Максим	10.169
-410.	nizelyuk-yuriy	Низелюк Юрий	10.164
-411.	bilyk-evgenij	Билык Евгений	10.163
-412.	bondarenko-kirill	Бондаренко Кирилл	10.155
-413.	pisanyj-dmitrij	Писаный Дмитрий	10.155
-414.	ripa-artem	Рипа Артем	10.152
-415.	belavskij	Белявский  	10.141
-416.	simonenko-aleksej	Симоненко Алексей	10.134
-417.	dmitruk-vitalij	Дмитрук Виталий	10.128
-418.	obolonik-dmitrij	Оболоник Дмитрий Валерьевич	10.128
-419.	neciporenko-nazar	Нечипоренко Назар	10.121
-420.	ni-artem	Ни Артем	10.118
-421.	kobec-vladislav	Кобец Владислав	10.110
-422.	klavins-valerij	Клявиньш Валерий	10.109
-423.	kolada-roman	Коляда Роман	10.109
-424.	vintonyak-roman	Винтоняк Роман	10.108
-425.	telpis-aleksandr	Тельпис Александр	10.106
-426.	dacuk-anton	Дячук Антон	10.104
-427.	nosov-aleksandr	Носов Александр	10.101
-428.	zidenko-dmitrij	Жиденко Дмитрий	10.096
-429.	fedorov-igor-leonidovic	Федоров Игорь Леонидович	10.088
-430.	korenkov-	Коренков Валерий	10.083
-431.	kovenko-nikolaj	Ковенько Николай	10.082
-432.	stepanov-vladimir	Степанов Владимир	10.081
-433.	aulih-urij	Аулих Юрий	10.081
-434.	mihalik-vlad	Михалик Влад	10.078
-435.	slezinskij-oleg	Слезинский Олег	10.076
-436.	litovcenko-dmitrij	Литовченко Дмитрий	10.070
-437.	satov-aleksandr-vitalevic	Шатов Александр Витальевич	10.070
-438.	nazarec-roman	Назарец Роман	10.060
-439.	radzabov-andrej	Раджабов Андрей Радионович	10.058
-440.	orlovskij-maksim	Орловский Максим	10.049
-441.	maluk-valerij	Малюк Валерий	10.047
-442.	vasenko-boris	Ващенко Борис	10.025
-443.	gerus-roman	Герус Роман	10.013
-444.	bog-vaceslav-vladimirovic	Бог Вячеслав Владимирович	10.012
-445.	astahov-anatolij	Астахов Анатолий	10.009
-446.	vasilec-vladislav	Василец Владислав	10.007
-447.	adamchuk-yuriy	Адамчук Юрий	10.001
-448.	kandyba-sergej	Кандыба Сергей	10.000
-449.	onsa-aleksandr	Оньша Александр	9.998
-450.	akovenko-bogdan-nikolaevic	Яковенко Богдан Николаевич	9.991
-451.	pikula-anton	Пикула Антон	9.991
-452.	degtarenko-andrej	Дегтяренко Андрей	9.990
-453.	armolenko-aleksandr	Ярмоленко Александр	9.963
-454.	kostuk-sergej	Костюк Сергей	9.948
-455.	vasanovic-lubov	Васянович Любовь	9.944
-456.	kravcenko-konstantin	Кравченко Константин	9.940
-457.	selin-aleksej	Селин Алексей Александрович	9.936
-458.	diduh-aleksandr	Дидух Александр	9.935
-459.	huzej-oleg	Гузей Олег	9.931
-460.	radzvivil-roman	Радзивил Роман	9.919
-461.	begar-aroslav	Бегарь Ярослав	9.910
-462.	demcenko-mihail	Демченко Михаил Юрьевич	9.898
-463.	vygranovskiy-dmitriy	Выграновский Дмитрий	9.896
-464.	hodotovic-artem	Ходотович Артём	9.891
-465.	sevcenko-vadim	Шевченко Вадим	9.883
-466.	semenuk	Семенюк А	9.878
-467.	kacur-urij	Качур Юрий	9.876
-468.	kredens-taras	Креденс Тарас	9.858
-469.	avakan-gamlet	Авакян Гамлет	9.850
-470.	ignatov-konstantin	Игнатов Константин	9.846
-471.	kovalenko-maksim	Коваленко Максим	9.846
-472.	svetlicnyj-evgenij	Светличный Евгений	9.846
-473.	clemmensen-hjordis	Clemmensen Hjordis	9.842
-474.	basenskij-ruslan	Башенский Руслан	9.830
-475.	gorohovatskij-aleksej	Гороховатский Алексей	9.829
-476.	vaseckij-andrej	Васецкий Андрей	9.827
-477.	andruhanenko-aleksej	Андруханенко Алексей	9.820
-478.	zukov-denis	Жуков Денис	9.818
-479.	pogorelov-sergej	Погорелов Сергей	9.818
-480.	kozacok-dmitrij	Козачок Дмитрий	9.818
-481.	gavrilenko-maksim	Гавриленко Максим	9.813
-482.	valek-robert	Валек Роберт	9.812
-483.	byhovskij-vladimir-grigorevic-1988	Быховский Владимир Григорьевич	9.809
-484.	odegov-anton	Одегов Антон	9.807
-485.	matrosov-nikita	Матросов Никита	9.803
-486.	gubak-roman	Губяк Роман	9.800
-487.	gasanov-ali	Гасанов Али	9.798
-488.	klimkiv-urij	Климкив Юрий	9.793
-489.	gavdo-miroslav	Гавдо Мирослав	9.790
-490.	davydenko-sergej	Давыденко Сергей	9.782
-491.	adamenko-sergej	Адаменко Сергей	9.782
-492.	bedrickij-mihail	Бедрицкий Михаил	9.781
-493.	evtusenko-aleksej	Евтушенко Алексей	9.780
-494.	mozgovoj-roman	Мозговой Роман	9.776
-495.	slepko-roman	Слепко Роман	9.771
-496.	bojko-aleksandr	Бойко Александр	9.768
-497.	makarov-vladislav	Макаров Владислав	9.754
-498.	melnicuk-konstantin	Мельничук Константин	9.754
-499.	demkiv-urij	Демкив Юрий	9.746
-500.	degtarev-urij	Дегтярев Юрий	9.746
-501.	gergardt-	Гергардт Артур	9.741
-502.	montosko-solomia	Монтошко Соломия	9.739
-503.	kovalenko-vadim	Коваленко Вадим	9.739
-504.	harcenko-vladimir	Харченко Владимир	9.737
-505.	skripnik-dmitrij	Скрипник Дмитрий	9.736
-506.	grincisin-andrej	Гринчишин Андрей	9.735
-507.	morozov-igor	Морозов Игорь	9.733
-508.	tokarcuk-andrej	Токарчук Андрей	9.733
-509.	silcev-anton	Шильцев Антон	9.730
-510.	skocinskij-bogdan	Скочинский Богдан	9.718
-511.	veklenko	Векленко  	9.700
-512.	kondratuk-vladimir	Кондратюк Владимир	9.698
-513.	basik--	Басык Роман	9.693
-514.	demcuk-vasilij	Демчук Василий	9.692
-515.	musienko-andrej	Мусиенко Андрей	9.692
-516.	bilavskij-aleksandr	Билявский Александр	9.692
-517.	guevskij-artem	Гуевский Артем	9.691
-518.	evtusenko-vlad	Евтушенко Влад	9.686
-519.	vakulenko-evgenij	Вакуленко Евгений	9.681
-520.	sivyh-oleg	Сивых Олег	9.677
-521.	siman-maksim	Шиман Максим	9.674
-522.	kocerev-sergej	Кочерев Сергей	9.670
-523.	svarnik-vadim	Сварник Вадим	9.663
-524.	prudkij-sergej	Прудкий Сергей	9.657
-525.	taran-aleksej	Таран Алексей	9.653
-526.	gancev-gennadij	Ганчев Геннадий	9.636
-527.	saposnikov-boris	Шапошников Борис	9.629
-528.	kicun-gennadij	Кицун Геннадий	9.628
-529.	maksimenko-sergej	Максименко Сергей Николаевич	9.627
-530.	lemis-danil	Лемиш Данил	9.618
-531.	pismeneckij-andrej	Письменецкий Андрей	9.617
-532.	cerednikov-andrej	Чередников Андрей	9.614
-533.	filonenko--	Филоненко  	9.613
-534.	sotik-taras	Шотик Тарас	9.612
-535.	antonec-elena	Антонец Елена	9.612
-536.	golubovic-pavel	Голубович Павел	9.608
-537.	lesenko-aleksandr	Лещенко Александр	9.607
-538.	gerasimenko-sergej	Герасименко Сергей	9.605
-539.	cerkasin-sergej	Черкашин Сергей	9.603
-540.	beregulak-zorana	Берегуляк Зоряна	9.592
-541.	zavoronkov-igor	Жаворонков Игорь	9.591
-542.	grigorenko-nikolaj	Григоренко Николай	9.590
-543.	dovgopolyj-vadim	Довгополый Вадим	9.586
-544.	breza-igor	Бреза Игорь	9.584
-545.	razumnyj-sergej	Разумный Сергей	9.574
-546.	gnatuk-pavel	Гнатюк Павел	9.570
-547.	kocerov-sergej	Кочеров Сергей	9.561
-548.	vinogradov-aleksandr	Виноградов Александр	9.560
-549.	belik-aleksandr	Белик Александр Владимирович	9.559
-550.	stefurak-sergej	Стефурак Сергей	9.557
-551.	potcepcov-pavel	Потчепцов Павел	9.551
-552.	bobovskij	Бобовский  	9.551
-553.	penkovskiy	Пеньковский  	9.547
-554.	grabar-aleksandr	Грабар Александр	9.545
-555.	guk-aleksandr	Гук Александр	9.544
-556.	lazarcuk-dmitrij	Лазарчук Дмитрий	9.542
-557.	koraka-artur	Коряка Артур	9.538
-558.	krasnikov-evgenij	Красников Евгений	9.537
-559.	kozlov-aleksandr-kiev	Козлов Александр	9.533
-560.	lantuh-mihail	Лантух Михаил	9.532
-561.	glusenko-vitalij	Глущенко Виталий	9.526
-562.	gadomskaa-marta	Гадомская Марта	9.520
-563.	keller-roman-aleksandrovic	Келлер Роман Александрович	9.520
-564.	nazarkevic-pavel	Назаркевич Павел	9.519
-565.	vorobej-evgenij	Воробей Евгений	9.518
-566.	kovalcuk-egor-dmitrievic	Ковальчук Егор Дмитриевич	9.516
-567.	golarcuk-a	Голярчук А	9.514
-568.	kondratovic-maksim	Кондратович Максим	9.514
-569.	sadovoj-viktor	Садовой Виктор	9.512
-570.	bigma-gleb	Бигма Глеб	9.512
-571.	basarab-miroslav	Басараб Мирослав	9.511
-572.	sevcenko-artem	Шевченко Артем	9.510
-573.	volanik-nikolaj	Воляник Николай	9.509
-574.	bozko-rostislav	Божко Ростислав	9.506
-575.	dmitriv	Дмитрив Роман	9.505
-576.	bacinskij-aleksandr	Бачинский Александр	9.502
-577.	kalandarisvili-david	Каландаришвили Давид	9.501
-578.	bratusenko-dmitrij	Братющенко Дмитрий	9.492
-579.	karplyuk-vladimir	Карплюк Владимир	9.490
-580.	parhomenko-bogdan	Пархоменко Богдан	9.484
-581.	baranov-bogdan	Баранов Богдан	9.476
-582.	serbina-vaceslav	Щербина Вячеслав	9.473
-583.	bakuta-	Бакута Андрей	9.473
-584.	lasev-andrej	Лащев Андрей Владимирович	9.470
-585.	dudko-semen	Дудко Семен	9.467
-586.	lubcenko-mihail	Любченко Михаил	9.461
-587.	nazarenko-ivan	Назаренко Иван	9.460
-588.	skocipec-andrej	Скочипец Андрей	9.457
-589.	cernavskij-aleksandr	Чернявский Александр	9.454
-590.	iotov-aleksandr	Иотов Александр	9.433
-591.	mozgovoj-sergej	Мозговой Сергей	9.425
-592.	retman-nikolaj	Ретьман Николай	9.417
-593.	kovalcuk-maksim	Ковальчук Максим	9.415
-594.	sirenko-konstantin	Сиренко Константин	9.414
-595.	havanskij-denis	Хаванский Денис	9.411
-596.	degtarev-vitalij	Дегтярев Виталий	9.407
-597.	kupcenko-s	Купченко С	9.396
-598.	mihajluk-aleksej	Михайлюк Алексей	9.385
-599.	valyj-aleksandr	Вялый Александр	9.382
-600.	melnicenko-aleksej	Мельниченко Алексей	9.379
-601.	ovcarenko-sergej	Овчаренко Сергей	9.376
-602.	fomenko-vaceslav	Фоменко Вячеслав	9.373
-603.	shpak-alexander	Шпак Александр	9.372
-604.	sandulov-valerij	Сандулов Валерий	9.366
-605.	cimbolinec-oleg	Цимболинец Олег	9.365
-606.	kabakov-andrej-sergeevic	Кабаков Андрей	9.361
-607.	lihov-vladimir	Лихов Владимир	9.356
-608.	carenko-urij	Царенко Юрий	9.352
-609.	vasilev-evgenij	Васильев Евгений	9.347
-610.	gontar-ivan	Гонтарь Иван	9.347
-611.	sertyc-anastasia	Сертыч Анастасия	9.343
-612.	butko-ruslan	Бутко Руслан	9.339
-613.	makogon-ivan	Макогон Иван	9.338
-614.	gancev-vasilij	Ганчев Василий	9.337
-615.	melnicenko-evgenij	Мельниченко Евгений	9.328
-616.	artercuk-andrej	Артерчук Андрей	9.327
-617.	kliman-tatana	Климань Татьяна	9.322
-618.	malomuz-evgenij	Маломуж Евгений	9.321
-619.	taranov-dmitrij	Таранов Дмитрий	9.318
-620.	davydenko-dmitrij	Давыденко Дмитрий	9.313
-621.	klimenko-roman	Клименко Роман	9.306
-622.	evseev-aleksandr	Евсеев Александр	9.292
-623.	dovbenko-vladimir	Довбенко Владимир	9.289
-624.	volincev-daniel	Волинцев Даниэль	9.288
-625.	mokrak-viktor	Мокряк Виктор	9.287
-626.	reznikova-ekaterina	Резникова Екатерина	9.286
-627.	rosluk-roman	Рослюк Роман	9.285
-628.	zabiakov-aleksandr	Забияков Александр	9.284
-629.	lirko-taras	Лирко Тарас	9.284
-630.	pletnov-aleksej	Плетнёв Алексей	9.277
-631.	gnilickij-roman	Гнилицкий Роман	9.270
-632.	homiv-vasilij	Хомив Василий	9.267
-633.	razumovskij-aleksej	Разумовский Алексей	9.264
-634.	parhomenko-severin	Пархоменко Северин	9.263
-635.	baranovskij-dmitrij	Барановский Дмитрий	9.262
-636.	solomencev-aleksandr	Соломенцев Александр	9.260
-637.	grimak-olga	Гримак Ольга	9.251
-638.	ostrovskij-aleksandr	Островский Александр	9.248
-639.	setinin-ivan	Щетинин Иван	9.245
-640.	tovstuha-sergej	Товстуха Сергей	9.245
-641.	rudyk-igor	Рудык Игорь	9.244
-642.	ramadanov-aleksandr	Рамаданов Александр	9.244
-643.	mironov-vaceslav	Миронов Вячеслав	9.241
-644.	zukov-dmitrij	Жуков Дмитрий	9.241
-645.	velcev-andrej-alekseevic-2003	Вельчев Андрей Алексеевич	9.237
-646.	kucos-maksim	Куцос Максим	9.229
-647.	lutenko-andrej	Лютенко Андрей	9.219
-648.	calyj-andrej	Чалый Андрей	9.216
-649.	arifdzanov-marlen	Арифджанов Марлен	9.214
-650.	reksa-oleg	Рекша Олег	9.203
-651.	thorik-roman	Тхорик Роман	9.199
-652.	bican-anton	Бичан Антон	9.197
-653.	akimcuk-anatolij	Якимчук Анатолий	9.189
-654.	kravec-maksim	Кравец Максим	9.186
-655.	kovalcuk-ostap	Ковальчук Остап	9.183
-656.	zagorodnij-andrej	Загородний Андрей	9.180
-657.	kaluznyj-ila	Калюжный Илья	9.164
-658.	stepankov-ivan	Степаньков Иван	9.154
-659.	grebenuk-oleg	Гребенюк Олег	9.151
-660.	bors-vlad	Борш Влад	9.151
-661.	slahov	Шляхов  	9.147
-662.	usakov	Ушаков  	9.146
-663.	sumin-nikolaj	Шумин Николай	9.142
-664.	trigub-andrej	Тригуб Андрей Владимирович	9.138
-665.	sevcenko-mihail	Шевченко Михаил	9.137
-666.	volkov-daniil	Волков Даниил	9.130
-667.	lysenko-sergej	Лысенко Сергей	9.130
-668.	bzovskij-taras	Бзовский Тарас	9.116
-669.	aremcuk	Яремчук  	9.107
-670.	pyrig-andrej	Пыриг Андрей	9.100
-671.	lagusa-oksana	Лягуша Оксана Анатольевна	9.099
-672.	zaplatinskij-vladislav	Заплатинский Владислав	9.094
-673.	gajdaj-aleksej	Гайдай Алексей	9.090
-674.	alekseenko-taras	Алексеенко Тарас	9.087
-675.	skitibog-igor-nikolaevic	Скитибог Игорь Николаевич	9.085
-676.	dakov-aleksej	Дьяков Алексей	9.083
-677.	pedic-sergej	Педич Сергей	9.078
-678.	ivanciv-aroslav	Иванцив Ярослав	9.071
-679.	snadcuk-dmitrij-mihajlovic-1974	Снадчук Дмитрий Михайлович	9.066
-680.	krivonosov-aleksandr	Кривоносов Александр	9.060
-681.	radcuk-igor	Радчук Игорь	9.056
-682.	sevcenko-sergej-igorevic	Шевченко Сергей Игоревич	9.052
-683.	mitrosin-evgenij	Митрошин Евгений	9.050
-684.	gavros-	Гаврош Максим	9.047
-685.	zuber-maksim	Зюбер Максим	9.016
-686.	kolesnik-alena	Колесник Алена	9.005
-687.	serov-ruslan	Серов Руслан	9.004
-688.	sidorenko-vladislav	Сидоренко Владислав	9.003
-689.	romanovic-ivan	Романович Иван	8.997
-690.	nagornyj-vladislav	Нагорный Владислав	8.992
-691.	gubskij-sergej	Губский Сергей Николаевич	8.973
-692.	onoprienko-sergej	Оноприенко Сергей	8.963
-693.	cernuk-nikita	Чернюк Никита	8.960
-694.	can-d	Чан Д	8.957
-695.	kovalev-dmitrij-vaceslavovic	Ковалев Дмитрий Вячеславович	8.954
-696.	zarubin-andrej	Зарубин Андрей	8.944
-697.	lavrov-artem	Лавров Артем	8.944
-698.	ivasencev-aleksej	Ивашенцев Алексей	8.939
-699.	garmasev-dmitrij	Гармашев Дмитрий	8.934
-700.	ostrovoj-mihail	Островой Михаил	8.930
-701.	fisun-artur	Фисун Артур	8.929
-702.	suvorov-stepan	Суворов Степан	8.921
-703.	gromakov-vladimir	Громаков Владимир	8.917
-704.	savcenko-pavel	Савченко Павел	8.912
-705.	nycyk-andrej	Ныцик Андрей	8.890
-706.	korinenko-pavel	Кориненко Павел	8.888
-707.	hacatran-vadim-1980	Хачатрян Вадим	8.887
-708.	zamkov-aleksandr	Жамков Александр	8.881
-709.	seglak-	Щегляк Игорь	8.875
-710.	solcanik-oleg	Сольчаник Олег	8.873
-711.	dorofeev-oleg	Дорофеев Олег	8.870
-712.	zuravlev-sergej	Журавлев Сергей	8.865
-713.	davydov-oleg	Давыдов Олег	8.861
-714.	kravcenko-igor-aleksandrovic	Кравченко Игорь Александрович	8.855
-715.	revula-r	Ревула Руслан	8.849
-716.	diduh-tatana	Дидух Татьяна	8.840
-717.	dubovskij-svatoslav	Дубовский Святослав	8.834
-718.	pirogov-oleg	Пирогов Олег	8.831
-719.	kolesnikov-aleksej	Колесников Алексей	8.823
-720.	muranec-bogdan	Муранец Богдан	8.809
-721.	lysenko-urij	Лысенко Юрий	8.803
-722.	gribacev-denis	Грибачев Денис	8.799
-723.	tretak-sergej	Третьяк Сергей	8.791
-724.	harcenko-artem	Харченко Артем	8.788
-725.	pesna-konstantin	Песня Константин	8.774
-726.	rostovceva-elena	Ростовцева Елена	8.773
-727.	cicik-andrej	Чичик Андрей	8.770
-728.	turovskij-evgenij	Туровский Евгений	8.763
-729.	zelabov-petr	Желябов Петр	8.761
-730.	panickin-aleksandr	Паничкин Александр	8.742
-731.	koltunova-polina	Колтунова Полина	8.729
-732.	maloran-vadim-1958	Малорян Вадим	8.718
-733.	leonovic-igor	Леонович Игорь	8.718
-734.	vasilev-artem	Васильев Артем	8.716
-735.	sojko-artem	Шойко Артем	8.712
-736.	snicar-andrej	Шницар Андрей	8.712
-737.	muzycenko-maksim	Музыченко Максим	8.671
-738.	adamenko-denis	Адаменко Денис	8.661
-739.	kusnir-artem	Кушнир Артем	8.656
-740.	cibuk-aroslav	Чибук Ярослав	8.651
-741.	vengrov	Венгров  	8.647
-742.	sapoval-anton	Шаповал Антон	8.645
-743.	arukov-artur	Арюков Артур	8.624
-744.	kulagin-maksim	Кулагин Максим	8.620
-745.	vygovskij-bogdan	Выговский Богдан Ростиславович	8.619
-746.	dubovoj-evgenij	Дубовой Евгений	8.616
-747.	prisaznyj-maksim	Присяжный Максим	8.614
-748.	dmitriev-vladislav	Дмитриев Владислав	8.611
-749.	novik-valerij	Новик Валерий	8.606
-750.	sinkarenko-evgenij	Шинкаренко Евгений	8.601
-751.	andrianov-aleksej	Андриянов Алексей Юрьевич	8.600
-752.	bozok-ivan	Божок Иван	8.598
-753.	anisenko-dmitrij	Анищенко Дмитрий	8.585
-754.	bodnaruk-vasiliy	Боднарук Василий	8.582
-755.	fostak-oksana	Фостяк Оксана	8.566
-756.	gamanuk-aleksandr	Гаманюк Александр	8.561
-757.	boar-urij	Бояр Юрий	8.551
-758.	nariznyj-ruslan	Нарижный Руслан	8.539
-759.	cepurnov-sergej	Чепурнов Сергей	8.533
-760.	zajcev-vadim	Зайцев Вадим	8.527
-761.	bondarenko-nikolaj	Бондаренко Николай	8.526
-762.	suhotin-evgenij	Сухотин Евгений	8.494
-763.	sopin-aleksej-urevic-1978	Сопин Алексей Юрьевич	8.482
-764.	kalinovskij-konstantin	Калиновский Константин	8.480
-765.	terenskij-roman	Теренский Роман	8.476
-766.	bavsin-oleg	Бавшин Олег	8.456
-767.	popov-viktor	Попов Виктор	8.455
-768.	antipov-andrej	Антипов Андрей	8.449
-769.	sahan-vladimir	Сахань Владимир	8.439
-770.	viktorov-evgenij	Викторов Евгений	8.432
-771.	samohval-vladimir	Самохвал Владимир	8.423
-772.	loboda-	Лобода Александр	8.420
-773.	gostisev-evgenij	Гостищев Евгений	8.420
-774.	legkaa-antonina	Легкая Антонина	8.403
-775.	grazdan-nikolaj	Граждан Николай	8.400
-776.	dudinov-valentin	Дудинов Валентин	8.352
-777.	dudka-alina	Дудка Алина	8.310
-778.	luc-bogdan-viktorovic	Луць Богдан Викторович	8.277
-779.	petrov-andrej	Петров Андрей	8.265
-780.	tomcisin-vitalij	Томчишин Виталий	8.212
-781.	dobromilskij-aleksandr	Добромильский Александр	8.199
-782.	romanova-lesa	Романова Леся	8.118
-783.	artamonov-anatolij	Артамонов Анатолий	8.114
-784.	gorainov-sergej	Горяинов Сергей	8.109
-785.	ostapenko-aleksandr	Остапенко Александр	8.089
-786.	nikiforov-denis	Никифоров Денис	8.076
-787.	gradil-nikoletta	Грядил Николетта	8.065
-788.	shmidt-igor	Шмидт Игорь	8.062
-789.	vysocin-leonid	Высочин Леонид	8.038
-790.	gavriluk-evgenij	Гаврилюк Евгений	7.977
-791.	snesar-mihail	Снесарь Михаил	7.957
-792.	leonenko-dmitriy	Леоненко Дмитрий	7.905
-793.	logaj-pavel	Логай Павел	7.860
-794.	cakran-vadim	Чакрян Вадим	7.855
-795.	stepnev-sergej	Степнев Сергей	7.774
-796.	zemlacenko-aleksandr	Земляченко Александр	7.696
-797.	skodkin-kirill	Шкодкин Кирилл	7.622
-798.	drejman-oleg	Дрейман Олег	7.521
-799.	illovajskij-valerij	Илловайский Валерий	7.492
-800.	maleev-andrej	Малеев Андрей Николаевич	7.467
-801.	kidanov-artem	Киданов Артём	7.360
-802.	trembac-vladislav	Трембач Владислав Сергеевич	7.349
-803.	smirnov-dmitrij	Смирнов Дмитрий Игоревич	7.317
-804.	semenovic-oleg	Семенович Олег	7.271
-805.	guranova-maria	Гурьянова Мария	7.267
-806.	vorobev-maksim	Воробьёв Максим	7.231
-807.	sidorenko-denis	Сидоренко Денис	7.135
-808.	meserakov-denis	Мещеряков Денис	7.066
-809.	fesko-roman	Фесько Роман	6.905
-810.	dodatko-konstantin-1980	Додатко Константин	6.774
-811.	solodovnik-alina	Солодовник Алина	6.586
-812.	elizarov-kirill	Елизаров Кирилл	5.691
-
+178.	kipic-vitalij	Кипич Виталий	12.477
+179.	najdenov-vitalij	Найденов Виталий	12.415
+180.	lebedev-nikolaj	Лебедев Николай	12.411
+181.	mironec-roman	Миронец Роман Владимирович	12.340
+182.	sevcenko-maksim	Шевченко Максим	12.309
+183.	rubincik-olga	Рубинчик Ольга	12.303
+184.	galena-oleg	Галеня Олег	12.291
+185.	borisenko-andrej	Борисенко Андрей	12.257
+186.	vilch-aleksandr	Вильч Александр	12.254
+187.	borovec-petr	Боровец Петр	12.253
+188.	zaporozec-aleksej	Запорожец Алексей	12.248
+189.	kozan-evgenij	Кожан Евгений	12.245
+190.	svajdeckij-vladislav	Швайдецкий Владислав	12.212
+191.	kaminskij-sergej	Каминский Сергей Эдуардович	12.201
+192.	belous-konstantin	Белоус Константин Викторович	12.191
+193.	sahno-anastasia	Сахно Анастасия	12.160
+194.	mihajlova-olga	Михайлова Ольга	12.136
+195.	kozakov-ivan	Козаков Иван	12.122
+196.	medvedev-vladimir	Медведев Владимир Владимирович	12.078
+197.	fadeev-maksim	Фадеев Максим	12.057
+198.	zih-vladislav	Жих Владислав	12.035
+199.	zubaha-andrej	Зубаха Андрей	12.013
+200.	kornev-aleksandr	Корнев Александр Сергеевич	11.973
+201.	belokamenskij-marat	Белокаменский Марат	11.969
+202.	gordienko-evgenij	Гордиенко Евгений	11.953
+203.	sartakov-dmitrij	Сартаков Дмитрий	11.927
+204.	rozin-andrej	Розин Андрей	11.903
+205.	cigilik-lubomir	Цигилик Любомир	11.896
+206.	volkov-evgenij	Волков Евгений	11.862
+207.	potapov-aleksandr	Потапов Александр	11.843
+208.	zuravleva-tatana	Журавлева Татьяна	11.831
+209.	dudnik-evgenij	Дудник Евгений	11.818
+210.	katola-oleg	Катола Олег	11.809
+211.	vlasov-sergej	Власов Сергей	11.799
+212.	hristan-andrej	Христян Андрей	11.796
+213.	didenko-dmitrij	Диденко Дмитрий	11.782
+214.	kusakov-aleksandr	Кусаков Александр	11.755
+215.	prihodko-dmitrij	Приходько Дмитрий	11.754
+216.	veresaga-ivan	Верещага Иван	11.737
+217.	lysenko-aleksandr	Лысенко Александр	11.719
+218.	urcenko-nikita-vladimirovic	Юрченко Никита Владимирович	11.670
+219.	cernyj-aleksandr	Черный Александр	11.640
+220.	nebesnuk-vladislav	Небеснюк Владислав	11.636
+221.	ivanikin-oleg	Иваникин Олег	11.633
+222.	rogacev-dmitrij	Рогачёв Дмитрий	11.616
+223.	komarov-andrej	Комаров Андрей	11.611
+224.	avdeenko-evgenij	Авдеенко Евгений	11.603
+225.	uzenkov-aleksandr	Уженков Александр	11.600
+226.	bilcenko-denis	Бильченко Денис	11.598
+227.	ponomarenko-roman	Пономаренко Роман	11.550
+228.	kusnir-ruslan	Кушнир Руслан	11.546
+229.	chornenkiy-nazar	Чорненький Назар	11.528
+230.	muha-evgenij	Муха Евгений	11.524
+231.	shchepilov-igor	Щепилов Игорь	11.520
+232.	salmanovic-aleksandr	Сальманович Александр	11.512
+233.	zarskij-anton	Жарский Антон	11.508
+234.	rud-evgenij	Рудь Евгений	11.503
+235.	lucko-dmitrij	Лучко Дмитрий	11.497
+236.	polincuk-dmitrij	Полинчук Дмитрий	11.486
+237.	lisovoj-vitalij	Лисовой Виталий	11.478
+238.	segel-sergej	Щегель Сергей	11.476
+239.	tihonuk-vladislav	Тихонюк Владислав	11.460
+240.	palamarcuk-roman	Паламарчук Роман	11.448
+241.	kryzanovskij-anton	Крыжановский Антон	11.445
+242.	gorbacenko-vladimir	Горбаченко Владимир	11.440
+243.	vinogradov-vaceslav	Виноградов Вячеслав	11.438
+244.	geraskin-aleksandr	Гераскин Александр	11.419
+245.	bondatij-viktor	Бондатий Виктор Викторович	11.410
+246.	selehov-sergej	Шелехов Сергей	11.400
+247.	tomah-aleksandr	Томах Александр	11.398
+248.	oparysev-evgenij	Опарышев Евгений	11.395
+249.	visnevskij-vladimir-valerevic	Вишневский Владимир Валерьевич	11.371
+250.	ulasin-sergej	Ульяшин Сергей	11.363
+251.	maca-andrej	Маца Андрей	11.351
+252.	demancuk-evgenij-dmitrievic	Демьянчук Евгений Дмитриевич	11.319
+253.	nerus-lilia	Неруш Лилия	11.314
+254.	urev-vitalij	Юрьев Виталий	11.308
+255.	koval-oleg	Коваль Олег	11.307
+256.	makovenko-ila	Маковенко Илья	11.306
+257.	svec-konstantin-vladimirovic	Швец Константин Владимирович	11.302
+258.	konoval-vladimir	Коновал Владимир	11.283
+259.	pavlov-vladislav	Павлов Владислав Александрович	11.273
+260.	lazurenko-aleksandr	Лазуренко Александр	11.261
+261.	voronic-anton	Воронич Антон	11.261
+262.	konovalov-oleg	Коновалов Олег	11.249
+263.	grib-sergej	Гриб Сергей	11.244
+264.	gurin-ivan	Гурин Иван	11.244
+265.	komin-gennadij-vk	Комин Геннадий	11.243
+266.	tareev-vladimir	Тареев Владимир	11.233
+267.	lubcenko-valentin	Любченко Валентин	11.216
+268.	kristapovic-ivan	Криштапович Иван	11.201
+269.	panko-evgenij	Панько Евгений	11.188
+270.	gripas-igor	Грипас Игорь	11.173
+271.	nikitcenko-igor	Никитченко Игорь	11.134
+272.	zemcov-aroslav	Земцов Ярослав	11.123
+273.	kozlov-andrej	Козлов Андрей	11.119
+274.	domanskij-pavel	Доманский Павел	11.100
+275.	volos-maksim	Волос Максим	11.100
+276.	muzycuk-sergej	Музычук Сергей	11.094
+277.	oprysko-oleg	Опрышко Олег	11.062
+278.	nesterenko-dmitrij	Нестеренко Дмитрий Анатольевич	11.046
+279.	sramko-	Шрамко Андрей	11.026
+280.	filimonov-igor	Филимонов Игорь	11.007
+281.	pavlovskij-vladislav	Павловский Владислав	11.006
+282.	smolij-valentin	Смолий Валентин	10.984
+283.	rasba-boris	Рашба Борис	10.971
+284.	mozaz-oleg	Мозяж Олег	10.951
+285.	advicuk-pavel	Ядвичук Павел	10.936
+286.	dit-vladimir	Дит Владимир	10.934
+287.	zih-evgenij	Жих Евгений	10.927
+288.	zavolovic-evgenij	Заволович Евгений	10.926
+289.	pidletejcuk-viktor	Пидлетейчук Виктор	10.921
+290.	lukanov-ila	Лукьянов Илья	10.920
+291.	zabolotnyj-sergej	Заболотный Сергей	10.876
+292.	aveckij-evgenij	Явецкий Евгений	10.874
+293.	silov-konstantin	Шилов Константин	10.874
+294.	timosuk-oleg	Тимощук Олег	10.866
+295.	kluka-vladimir	Клюка Владимир	10.847
+296.	kizil-roman-vaceslavovic	Кизиль Роман Вячеславович	10.829
+297.	zamkovenko-andrej	Замковенко Андрей Васильевич	10.825
+298.	talasko-sergej	Талашко Сергей	10.818
+299.	kosmaj-mihail-1989	Кошмай Михаил Михайлович	10.810
+300.	platon-vitalij	Платон Виталий	10.807
+301.	kalinicenko-aleksandr	Калиниченко Александр	10.801
+302.	muranov-aleksandr	Муранов Александр	10.799
+303.	apanasenko-aleksej	Апанасенко Алексей	10.796
+304.	mihasak-evgenij	Михасяк Евгений	10.786
+305.	kotik-anton	Котик Антон	10.774
+306.	kot-vaceslav	Кот Вячеслав	10.756
+307.	kotlar-mihail	Котляр Михаил	10.752
+308.	stoanov-aleksej-ivanovic-1981	Стоянов Алексей Иванович	10.747
+309.	glusakov-dmitrij	Глушаков Дмитрий	10.743
+310.	nikitin-vladimir	Никитин Владимир	10.742
+311.	danilov-mihail	Данилов Михаил	10.734
+312.	avoriv-roman	Яворив Роман	10.713
+313.	zinenko-vlad	Зиненко Влад	10.712
+314.	bedrickij-ila	Бедрицкий Илья	10.709
+315.	volovelskaa-irina	Воловельская Ирина	10.697
+316.	lavygin-sergej	Ловыгин Сергей	10.687
+317.	fesenko-sergej	Фесенко Сергей	10.682
+318.	kozusko-aleksej	Кожушко Алексей	10.677
+319.	neciporenko-evgenij	Нечипоренко Евгений	10.676
+320.	subov-aleksandr	Шубов Александр	10.663
+321.	kravcuk-anton-andreevic-1998	Кравчук Антон Андреевич	10.662
+322.	mikituk-vasilij	Микитюк Василий	10.632
+323.	levcuk-vladimir	Левчук Владимир	10.624
+324.	savcenko-andrej	Савченко Андрей Геннадьевич	10.618
+325.	goncarov-dmitrij-sergeevich	Гончаров Дмитрий Сергеевич	10.617
+326.	pomingalov-oleg	Помингалов Олег	10.611
+327.	aremcuk-oleg	Яремчук Олег	10.608
+328.	bozko-ivan	Божко Иван Константинович	10.599
+329.	alcevanovic-dmitrij	Альциванович Дмитрий	10.594
+330.	sulima-oleg	Сулима Олег	10.570
+331.	makarov-aleksej	Макаров Алексей	10.569
+332.	bucackij-sergej	Бучацкий Сергей	10.552
+333.	ruzevic-andrej	Ружевич Андрей	10.551
+334.	kacaraba-maran	Качараба Марьян	10.547
+335.	sidorenko-dmitrij	Сидоренко Дмитрий	10.546
+336.	gracev-valerij	Грачев Валерий	10.542
+337.	sidor-taras	Сидор Тарас	10.542
+338.	nagirniy-ivan	Нагирный Иван	10.534
+339.	postelga-ivan	Постельга Иван	10.531
+340.	berezovskij-andrej	Березовский Андрей	10.522
+341.	mazurenko-urij	Мазуренко Юрий	10.510
+342.	bucko-taras	Бучко Тарас	10.510
+343.	pavluk-ivan	Павлюк Иван	10.509
+344.	guk-dmitrij	Гук Дмитрий	10.503
+345.	sidorcuk-maksim	Сидорчук Максим Сергеевич	10.497
+346.	byjnik-pavel	Быйник Павел	10.496
+347.	smetana-dmitrij	Сметана Дмитрий	10.493
+348.	gederin-r	Гедерин Руслан	10.490
+349.	gladyj-anton	Глядый Антон	10.487
+350.	dobrovolskij-n	Добровольский  	10.475
+351.	selukov-vitalij	Селюков Виталий	10.474
+352.	mirosnicenko-danil	Мирошниченко Данил	10.470
+353.	kulesov-dmitrij	Кулешов Дмитрий	10.467
+354.	urazovskaa-aleksandra	Уразовская Александра	10.461
+355.	tinkovan-aleksandr	Тинкован Александр	10.455
+356.	spesivcev-valerij	Спесивцев Валерий	10.454
+357.	kiselev-aleksej	Киселев Алексей	10.453
+358.	molosnyj-aleksandr	Молошный Александр	10.451
+359.	komarov-dmitrij	Комаров Дмитрий	10.404
+360.	ergin-anton	Ергин Антон	10.394
+361.	terkeckij-vladimir	Теркецкий Владимир	10.393
+362.	udod-vladislav	Удод Владислав	10.392
+363.	burackovskij-denis	Бурячковский Денис	10.392
+364.	paholuk-sergej	Пахолюк Сергей	10.390
+365.	novikov--	Новиков  	10.390
+366.	barinov-viktor	Баринов Виктор	10.382
+367.	snurovoj-valerij	Шнуровой Валерий	10.382
+368.	ognarev-evgenij	Огнарёв Евгений	10.372
+369.	sedov-viktor	Седов Виктор	10.370
+370.	panuskin-andrej	Панюшкин Андрей Валерьевич	10.359
+371.	mylasko-maksim	Мылашко Максим	10.351
+372.	grigorcuk-aleksandr	Григорчук Александр	10.349
+373.	mihalevic-aleksej	Михалевич Алексей	10.348
+374.	geleta-taras	Гелета Тарас	10.341
+375.	los-vadim	Лось Вадим	10.336
+376.	zadoroznyj-kirill	Задорожный Кирилл	10.333
+377.	galusevskij-sergej	Галушевский Сергей	10.332
+378.	pogorelovskij-dmitrij	Погореловский Дмитрий	10.326
+379.	kovalcuk-andrej	Ковальчук Андрей	10.324
+380.	gajducok-vitalij	Гайдучок Виталий	10.305
+381.	ziruk-vladimir	Жирук Владимир	10.304
+382.	pelih-pavel	Пелих Павел	10.303
+383.	acuk-vsevolod	Яцюк Всеволод	10.303
+384.	stecenko-dmitrij	Стеценко Дмитрий	10.302
+385.	skocinskij-bogdan	Скочинский Богдан	10.290
+386.	zamkovoj-maksim	Замковой Максим	10.288
+387.	padlak-urij	Падляк Юрий	10.288
+388.	acuk-bogdan	Яцук Богдан	10.288
+389.	skrizevskij-dmitrij	Скрижевский Дмитрий	10.278
+390.	legkij-anatolij	Легкий Анатолий Сергеевич	10.273
+391.	sevcov-georgij	Шевцов Георгий	10.272
+392.	vyhristuk-nikolaj	Выхристюк Николай	10.262
+393.	birukov-aleksandr	Бирюков Александр	10.261
+394.	dmitrasevic-orest	Дмитрасевич Орест	10.259
+395.	kolesnik-vitalij-vladimirovic	Колесник Виталий Владимирович	10.257
+396.	petrenko-viktor	Петренко Виктор	10.256
+397.	novik-nikolay	Новик Николай	10.249
+398.	dacina-aroslav	Дацина Ярослав	10.249
+399.	malinkin-aleksej	Малинкин Алексей	10.247
+400.	coric-maksim	Чорич Максим	10.246
+401.	zemlacenko-aleksandr	Земляченко Александр	10.244
+402.	kurcenko-vladimir	Курченко Владимир	10.244
+403.	stankov-urij	Станков Юрий	10.234
+404.	golubenko-igor	Голубенко Игорь	10.234
+405.	prihodko-	Приходько Дарья	10.227
+406.	tarasenko-denis	Тарасенко Денис	10.224
+407.	murasko-andrej	Мурашко Андрей	10.223
+408.	stasuk-vitalij	Стасюк Виталий Дмитриевич	10.220
+409.	zuzanskij-urij	Зузанский Юрий	10.217
+410.	melasuk-stanislav	Мелащук Станислав	10.216
+411.	sulga-vladimir	Шульга Владимир Ильич	10.214
+412.	golubisko-aleksandr-sergeevic	Голубишко Александр Сергеевич	10.209
+413.	krotov-roman	Кротов Роман	10.182
+414.	cuman-ivan	Цуман Иван	10.170
+415.	stasuk-maksim	Стасюк Максим	10.169
+416.	nizelyuk-yuriy	Низелюк Юрий	10.164
+417.	bilyk-evgenij	Билык Евгений	10.163
+418.	nazarchuk-vitaliy	Назарчук Виталий	10.162
+419.	bondarenko-kirill	Бондаренко Кирилл	10.155
+420.	pisanyj-dmitrij	Писаный Дмитрий	10.155
+421.	ripa-artem	Рипа Артем	10.152
+422.	belavskij	Белявский  	10.141
+423.	simonenko-aleksej	Симоненко Алексей	10.134
+424.	dmitruk-vitalij	Дмитрук Виталий	10.128
+425.	obolonik-dmitrij	Оболоник Дмитрий Валерьевич	10.128
+426.	neciporenko-nazar	Нечипоренко Назар	10.121
+427.	ni-artem	Ни Артем	10.118
+428.	kobec-vladislav	Кобец Владислав	10.110
+429.	klavins-valerij	Клявиньш Валерий	10.109
+430.	kolada-roman	Коляда Роман	10.109
+431.	vintonyak-roman	Винтоняк Роман	10.108
+432.	telpis-aleksandr	Тельпис Александр	10.106
+433.	dacuk-anton	Дячук Антон	10.104
+434.	nosov-aleksandr	Носов Александр	10.101
+435.	zidenko-dmitrij	Жиденко Дмитрий	10.096
+436.	fedorov-igor-leonidovic	Федоров Игорь Леонидович	10.088
+437.	korenkov-	Коренков Валерий	10.083
+438.	kovenko-nikolaj	Ковенько Николай	10.082
+439.	stepanov-vladimir	Степанов Владимир	10.081
+440.	aulih-urij	Аулих Юрий	10.081
+441.	mihalik-vlad	Михалик Влад	10.078
+442.	slezinskij-oleg	Слезинский Олег	10.076
+443.	litovcenko-dmitrij	Литовченко Дмитрий	10.070
+444.	satov-aleksandr-vitalevic	Шатов Александр Витальевич	10.070
+445.	nazarec-roman	Назарец Роман	10.060
+446.	radzabov-andrej	Раджабов Андрей Радионович	10.058
+447.	orlovskij-maksim	Орловский Максим	10.049
+448.	maluk-valerij	Малюк Валерий	10.047
+449.	vasenko-boris	Ващенко Борис	10.025
+450.	gerus-roman	Герус Роман	10.013
+451.	bog-vaceslav-vladimirovic	Бог Вячеслав Владимирович	10.012
+452.	astahov-anatolij	Астахов Анатолий	10.009
+453.	vasilec-vladislav	Василец Владислав	10.007
+454.	adamchuk-yuriy	Адамчук Юрий	10.001
+455.	kandyba-sergej	Кандыба Сергей	10.000
+456.	onsa-aleksandr	Оньша Александр	9.998
+457.	akovenko-bogdan-nikolaevic	Яковенко Богдан Николаевич	9.991
+458.	pikula-anton	Пикула Антон	9.991
+459.	degtarenko-andrej	Дегтяренко Андрей	9.990
+460.	cucukalo-sergej	Чучукало Сергей	9.982
+461.	armolenko-aleksandr	Ярмоленко Александр	9.963
+462.	kostuk-sergej	Костюк Сергей	9.948
+463.	vasanovic-lubov	Васянович Любовь	9.944
+464.	kravcenko-konstantin	Кравченко Константин	9.940
+465.	selin-aleksej	Селин Алексей Александрович	9.936
+466.	diduh-aleksandr	Дидух Александр	9.935
+467.	huzej-oleg	Гузей Олег	9.931
+468.	radzvivil-roman	Радзивил Роман	9.919
+469.	begar-aroslav	Бегарь Ярослав	9.910
+470.	demcenko-mihail	Демченко Михаил Юрьевич	9.898
+471.	vygranovskiy-dmitriy	Выграновский Дмитрий	9.896
+472.	hodotovic-artem	Ходотович Артём	9.891
+473.	sevcenko-vadim	Шевченко Вадим	9.883
+474.	semenuk	Семенюк А	9.878
+475.	kacur-urij	Качур Юрий	9.876
+476.	kredens-taras	Креденс Тарас	9.858
+477.	avakan-gamlet	Авакян Гамлет	9.850
+478.	ignatov-konstantin	Игнатов Константин	9.846
+479.	kovalenko-maksim	Коваленко Максим	9.846
+480.	svetlicnyj-evgenij	Светличный Евгений	9.846
+481.	clemmensen-hjordis	Clemmensen Hjordis	9.842
+482.	basenskij-ruslan	Башенский Руслан	9.830
+483.	gorohovatskij-aleksej	Гороховатский Алексей	9.829
+484.	vaseckij-andrej	Васецкий Андрей	9.827
+485.	andruhanenko-aleksej	Андруханенко Алексей	9.820
+486.	zukov-denis	Жуков Денис	9.818
+487.	pogorelov-sergej	Погорелов Сергей	9.818
+488.	kozacok-dmitrij	Козачок Дмитрий	9.818
+489.	gavrilenko-maksim	Гавриленко Максим	9.813
+490.	valek-robert	Валек Роберт	9.812
+491.	byhovskij-vladimir-grigorevic-1988	Быховский Владимир Григорьевич	9.809
+492.	odegov-anton	Одегов Антон	9.807
+493.	matrosov-nikita	Матросов Никита	9.803
+494.	gubak-roman	Губяк Роман	9.800
+495.	gasanov-ali	Гасанов Али	9.798
+496.	klimkiv-urij	Климкив Юрий	9.793
+497.	gavdo-miroslav	Гавдо Мирослав	9.790
+498.	davydenko-sergej	Давыденко Сергей	9.782
+499.	adamenko-sergej	Адаменко Сергей	9.782
+500.	bedrickij-mihail	Бедрицкий Михаил	9.781
+501.	evtusenko-aleksej	Евтушенко Алексей	9.780
+502.	mozgovoj-roman	Мозговой Роман	9.776
+503.	slepko-roman	Слепко Роман	9.771
+504.	bojko-aleksandr	Бойко Александр	9.768
+505.	makarov-vladislav	Макаров Владислав	9.754
+506.	melnicuk-konstantin	Мельничук Константин	9.754
+507.	demkiv-urij	Демкив Юрий	9.746
+508.	degtarev-urij	Дегтярев Юрий	9.746
+509.	gergardt-	Гергардт Артур	9.741
+510.	montosko-solomia	Монтошко Соломия	9.739
+511.	kovalenko-vadim	Коваленко Вадим	9.739
+512.	harcenko-vladimir	Харченко Владимир	9.737
+513.	skripnik-dmitrij	Скрипник Дмитрий	9.736
+514.	grincisin-andrej	Гринчишин Андрей	9.735
+515.	morozov-igor	Морозов Игорь	9.733
+516.	tokarcuk-andrej	Токарчук Андрей	9.733
+517.	silcev-anton	Шильцев Антон	9.730
+518.	maslyuk-oxana	Маслюк Оксана	9.730
+519.	lavrov-denis	Лавров Денис	9.725
+520.	veklenko	Векленко  	9.700
+521.	kondratuk-vladimir	Кондратюк Владимир	9.698
+522.	basik--	Басык Роман	9.693
+523.	demcuk-vasilij	Демчук Василий	9.692
+524.	musienko-andrej	Мусиенко Андрей	9.692
+525.	bilavskij-aleksandr	Билявский Александр	9.692
+526.	guevskij-artem	Гуевский Артем	9.691
+527.	evtusenko-vlad	Евтушенко Влад	9.686
+528.	vakulenko-evgenij	Вакуленко Евгений	9.681
+529.	sivyh-oleg	Сивых Олег	9.677
+530.	siman-maksim	Шиман Максим	9.674
+531.	kocerev-sergej	Кочерев Сергей	9.670
+532.	svarnik-vadim	Сварник Вадим	9.663
+533.	prudkij-sergej	Прудкий Сергей	9.657
+534.	taran-aleksej	Таран Алексей	9.653
+535.	gancev-gennadij	Ганчев Геннадий	9.636
+536.	saposnikov-boris	Шапошников Борис	9.629
+537.	kicun-gennadij	Кицун Геннадий	9.628
+538.	maksimenko-sergej	Максименко Сергей Николаевич	9.627
+539.	lemis-danil	Лемиш Данил	9.618
+540.	pismeneckij-andrej	Письменецкий Андрей	9.617
+541.	cerednikov-andrej	Чередников Андрей	9.614
+542.	filonenko--	Филоненко  	9.613
+543.	sotik-taras	Шотик Тарас	9.612
+544.	antonec-elena	Антонец Елена	9.612
+545.	golubovic-pavel	Голубович Павел	9.608
+546.	lesenko-aleksandr	Лещенко Александр	9.607
+547.	gerasimenko-sergej	Герасименко Сергей	9.605
+548.	cerkasin-sergej	Черкашин Сергей	9.603
+549.	beregulak-zorana	Берегуляк Зоряна	9.592
+550.	zavoronkov-igor	Жаворонков Игорь	9.591
+551.	grigorenko-nikolaj	Григоренко Николай	9.590
+552.	dovgopolyj-vadim	Довгополый Вадим	9.586
+553.	breza-igor	Бреза Игорь	9.584
+554.	razumnyj-sergej	Разумный Сергей	9.574
+555.	gnatuk-pavel	Гнатюк Павел	9.570
+556.	kocerov-sergej	Кочеров Сергей	9.561
+557.	vinogradov-aleksandr	Виноградов Александр	9.560
+558.	belik-aleksandr	Белик Александр Владимирович	9.559
+559.	stefurak-sergej	Стефурак Сергей	9.557
+560.	potcepcov-pavel	Потчепцов Павел	9.551
+561.	bobovskij	Бобовский  	9.551
+562.	penkovskiy	Пеньковский  	9.547
+563.	grabar-aleksandr	Грабар Александр	9.545
+564.	guk-aleksandr	Гук Александр	9.544
+565.	lazarcuk-dmitrij	Лазарчук Дмитрий	9.542
+566.	koraka-artur	Коряка Артур	9.538
+567.	krasnikov-evgenij	Красников Евгений	9.537
+568.	kozlov-aleksandr-kiev	Козлов Александр	9.533
+569.	lantuh-mihail	Лантух Михаил	9.532
+570.	glusenko-vitalij	Глущенко Виталий	9.526
+571.	gadomskaa-marta	Гадомская Марта	9.520
+572.	keller-roman-aleksandrovic	Келлер Роман Александрович	9.520
+573.	nazarkevic-pavel	Назаркевич Павел	9.519
+574.	vorobej-evgenij	Воробей Евгений	9.518
+575.	kovalcuk-egor-dmitrievic	Ковальчук Егор Дмитриевич	9.516
+576.	golarcuk-a	Голярчук А	9.514
+577.	kondratovic-maksim	Кондратович Максим	9.514
+578.	sadovoj-viktor	Садовой Виктор	9.512
+579.	bigma-gleb	Бигма Глеб	9.512
+580.	basarab-miroslav	Басараб Мирослав	9.511
+581.	sevcenko-artem	Шевченко Артем	9.510
+582.	volanik-nikolaj	Воляник Николай	9.509
+583.	bozko-rostislav	Божко Ростислав	9.506
+584.	gerasimov-yaroslav	Герасимов Ярослав	9.506
+585.	dmitriv	Дмитрив Роман	9.505
+586.	bacinskij-aleksandr	Бачинский Александр	9.502
+587.	kalandarisvili-david	Каландаришвили Давид	9.501
+588.	bratusenko-dmitrij	Братющенко Дмитрий	9.492
+589.	karplyuk-vladimir	Карплюк Владимир	9.490
+590.	parhomenko-bogdan	Пархоменко Богдан	9.484
+591.	baranov-bogdan	Баранов Богдан	9.476
+592.	serbina-vaceslav	Щербина Вячеслав	9.473
+593.	bakuta-	Бакута Андрей	9.473
+594.	lasev-andrej	Лащев Андрей Владимирович	9.470
+595.	dudko-semen	Дудко Семен	9.467
+596.	lubcenko-mihail	Любченко Михаил	9.461
+597.	nazarenko-ivan	Назаренко Иван	9.460
+598.	skocipec-andrej	Скочипец Андрей	9.457
+599.	cernavskij-aleksandr	Чернявский Александр	9.454
+600.	iotov-aleksandr	Иотов Александр	9.433
+601.	mozgovoj-sergej	Мозговой Сергей	9.425
+602.	retman-nikolaj	Ретьман Николай	9.417
+603.	kovalcuk-maksim	Ковальчук Максим	9.415
+604.	sirenko-konstantin	Сиренко Константин	9.414
+605.	havanskij-denis	Хаванский Денис	9.411
+606.	degtarev-vitalij	Дегтярев Виталий	9.407
+607.	kupcenko-s	Купченко С	9.396
+608.	mihajluk-aleksej	Михайлюк Алексей	9.385
+609.	valyj-aleksandr	Вялый Александр	9.382
+610.	melnicenko-aleksej	Мельниченко Алексей	9.379
+611.	ovcarenko-sergej	Овчаренко Сергей	9.376
+612.	fomenko-vaceslav	Фоменко Вячеслав	9.373
+613.	shpak-alexander	Шпак Александр	9.372
+614.	sandulov-valerij	Сандулов Валерий	9.366
+615.	cimbolinec-oleg	Цимболинец Олег	9.365
+616.	kabakov-andrej-sergeevic	Кабаков Андрей	9.361
+617.	lihov-vladimir	Лихов Владимир	9.356
+618.	carenko-urij	Царенко Юрий	9.352
+619.	vasilev-evgenij	Васильев Евгений	9.347
+620.	gontar-ivan	Гонтарь Иван	9.347
+621.	sertyc-anastasia	Сертыч Анастасия	9.343
+622.	butko-ruslan	Бутко Руслан	9.339
+623.	makogon-ivan	Макогон Иван	9.338
+624.	gancev-vasilij	Ганчев Василий	9.337
+625.	melnicenko-evgenij	Мельниченко Евгений	9.328
+626.	artercuk-andrej	Артерчук Андрей	9.327
+627.	kliman-tatana	Климань Татьяна	9.322
+628.	malomuz-evgenij	Маломуж Евгений	9.321
+629.	taranov-dmitrij	Таранов Дмитрий	9.318
+630.	davydenko-dmitrij	Давыденко Дмитрий	9.313
+631.	klimenko-roman	Клименко Роман	9.306
+632.	evseev-aleksandr	Евсеев Александр	9.292
+633.	dovbenko-vladimir	Довбенко Владимир	9.289
+634.	volincev-daniel	Волинцев Даниэль	9.288
+635.	mokrak-viktor	Мокряк Виктор	9.287
+636.	reznikova-ekaterina	Резникова Екатерина	9.286
+637.	rosluk-roman	Рослюк Роман	9.285
+638.	zabiakov-aleksandr	Забияков Александр	9.284
+639.	lirko-taras	Лирко Тарас	9.284
+640.	pletnov-aleksej	Плетнёв Алексей	9.277
+641.	gnilickij-roman	Гнилицкий Роман	9.270
+642.	homiv-vasilij	Хомив Василий	9.267
+643.	razumovskij-aleksej	Разумовский Алексей	9.264
+644.	parhomenko-severin	Пархоменко Северин	9.263
+645.	baranovskij-dmitrij	Барановский Дмитрий	9.262
+646.	solomencev-aleksandr	Соломенцев Александр	9.260
+647.	grimak-olga	Гримак Ольга	9.251
+648.	ostrovskij-aleksandr	Островский Александр	9.248
+649.	setinin-ivan	Щетинин Иван	9.245
+650.	tovstuha-sergej	Товстуха Сергей	9.245
+651.	rudyk-igor	Рудык Игорь	9.244
+652.	ramadanov-aleksandr	Рамаданов Александр	9.244
+653.	mironov-vaceslav	Миронов Вячеслав	9.241
+654.	zukov-dmitrij	Жуков Дмитрий	9.241
+655.	velcev-andrej-alekseevic-2003	Вельчев Андрей Алексеевич	9.237
+656.	kucos-maksim	Куцос Максим	9.229
+657.	lutenko-andrej	Лютенко Андрей	9.219
+658.	calyj-andrej	Чалый Андрей	9.216
+659.	arifdzanov-marlen	Арифджанов Марлен	9.214
+660.	reksa-oleg	Рекша Олег	9.203
+661.	thorik-roman	Тхорик Роман	9.199
+662.	bican-anton	Бичан Антон	9.197
+663.	akimcuk-anatolij	Якимчук Анатолий	9.189
+664.	kravec-maksim	Кравец Максим	9.186
+665.	kovalcuk-ostap	Ковальчук Остап	9.183
+666.	zagorodnij-andrej	Загородний Андрей	9.180
+667.	kaluznyj-ila	Калюжный Илья	9.164
+668.	stepankov-ivan	Степаньков Иван	9.154
+669.	grebenuk-oleg	Гребенюк Олег	9.151
+670.	bors-vlad	Борш Влад	9.151
+671.	slahov	Шляхов  	9.147
+672.	usakov	Ушаков  	9.146
+673.	sumin-nikolaj	Шумин Николай	9.142
+674.	trigub-andrej	Тригуб Андрей Владимирович	9.138
+675.	sevcenko-mihail	Шевченко Михаил	9.137
+676.	volkov-daniil	Волков Даниил	9.130
+677.	lysenko-sergej	Лысенко Сергей	9.130
+678.	bzovskij-taras	Бзовский Тарас	9.116
+679.	aremcuk	Яремчук  	9.107
+680.	pyrig-andrej	Пыриг Андрей	9.100
+681.	lagusa-oksana	Лягуша Оксана Анатольевна	9.099
+682.	zaplatinskij-vladislav	Заплатинский Владислав	9.094
+683.	gajdaj-aleksej	Гайдай Алексей	9.090
+684.	alekseenko-taras	Алексеенко Тарас	9.087
+685.	skitibog-igor-nikolaevic	Скитибог Игорь Николаевич	9.085
+686.	dakov-aleksej	Дьяков Алексей	9.083
+687.	pedic-sergej	Педич Сергей	9.078
+688.	ivanciv-aroslav	Иванцив Ярослав	9.071
+689.	snadcuk-dmitrij-mihajlovic-1974	Снадчук Дмитрий Михайлович	9.066
+690.	krivonosov-aleksandr	Кривоносов Александр	9.060
+691.	radcuk-igor	Радчук Игорь	9.056
+692.	sevcenko-sergej-igorevic	Шевченко Сергей Игоревич	9.052
+693.	mitrosin-evgenij	Митрошин Евгений	9.050
+694.	gavros-	Гаврош Максим	9.047
+695.	ohonko-pavel	Охонько Павел	9.039
+696.	zuber-maksim	Зюбер Максим	9.016
+697.	cibenko-dmitriy	Цибенко Дмитрий	9.010
+698.	kolesnik-alena	Колесник Алена	9.005
+699.	serov-ruslan	Серов Руслан	9.004
+700.	sidorenko-vladislav	Сидоренко Владислав	9.003
+701.	romanovic-ivan	Романович Иван	8.997
+702.	nagornyj-vladislav	Нагорный Владислав	8.992
+703.	gubskij-sergej	Губский Сергей Николаевич	8.973
+704.	onoprienko-sergej	Оноприенко Сергей	8.963
+705.	cernuk-nikita	Чернюк Никита	8.960
+706.	can-d	Чан Д	8.957
+707.	kovalev-dmitrij-vaceslavovic	Ковалев Дмитрий Вячеславович	8.954
+708.	zarubin-andrej	Зарубин Андрей	8.944
+709.	lavrov-artem	Лавров Артем	8.944
+710.	ivasencev-aleksej	Ивашенцев Алексей	8.939
+711.	garmasev-dmitrij	Гармашев Дмитрий	8.934
+712.	ostrovoj-mihail	Островой Михаил	8.930
+713.	fisun-artur	Фисун Артур	8.929
+714.	suvorov-stepan	Суворов Степан	8.921
+715.	gromakov-vladimir	Громаков Владимир	8.917
+716.	savcenko-pavel	Савченко Павел	8.912
+717.	chizhik-andrey	Чижик Андрей	8.905
+718.	nycyk-andrej	Ныцик Андрей	8.890
+719.	korinenko-pavel	Кориненко Павел	8.888
+720.	hacatran-vadim-1980	Хачатрян Вадим	8.887
+721.	zamkov-aleksandr	Жамков Александр	8.881
+722.	seglak-	Щегляк Игорь	8.875
+723.	solcanik-oleg	Сольчаник Олег	8.873
+724.	dorofeev-oleg	Дорофеев Олег	8.870
+725.	zuravlev-sergej	Журавлев Сергей	8.865
+726.	davydov-oleg	Давыдов Олег	8.861
+727.	kravcenko-igor-aleksandrovic	Кравченко Игорь Александрович	8.855
+728.	revula-r	Ревула Руслан	8.849
+729.	diduh-tatana	Дидух Татьяна	8.840
+730.	dubovskij-svatoslav	Дубовский Святослав	8.834
+731.	pirogov-oleg	Пирогов Олег	8.831
+732.	kolesnikov-aleksej	Колесников Алексей	8.823
+733.	muranec-bogdan	Муранец Богдан	8.809
+734.	lysenko-urij	Лысенко Юрий	8.803
+735.	gribacev-denis	Грибачев Денис	8.799
+736.	tretak-sergej	Третьяк Сергей	8.791
+737.	harcenko-artem	Харченко Артем	8.788
+738.	pesna-konstantin	Песня Константин	8.774
+739.	rostovceva-elena	Ростовцева Елена	8.773
+740.	cicik-andrej	Чичик Андрей	8.770
+741.	turovskij-evgenij	Туровский Евгений	8.763
+742.	zelabov-petr	Желябов Петр	8.761
+743.	panickin-aleksandr	Паничкин Александр	8.742
+744.	koltunova-polina	Колтунова Полина	8.729
+745.	maloran-vadim-1958	Малорян Вадим	8.718
+746.	leonovic-igor	Леонович Игорь	8.718
+747.	vasilev-artem	Васильев Артем	8.716
+748.	sojko-artem	Шойко Артем	8.712
+749.	snicar-andrej	Шницар Андрей	8.712
+750.	muzycenko-maksim	Музыченко Максим	8.671
+751.	adamenko-denis	Адаменко Денис	8.661
+752.	kusnir-artem	Кушнир Артем	8.656
+753.	cibuk-aroslav	Чибук Ярослав	8.651
+754.	vengrov	Венгров  	8.647
+755.	sapoval-anton	Шаповал Антон	8.645
+756.	arukov-artur	Арюков Артур	8.624
+757.	kulagin-maksim	Кулагин Максим	8.620
+758.	vygovskij-bogdan	Выговский Богдан Ростиславович	8.619
+759.	dubovoj-evgenij	Дубовой Евгений	8.616
+760.	prisaznyj-maksim	Присяжный Максим	8.614
+761.	dmitriev-vladislav	Дмитриев Владислав	8.611
+762.	novik-valerij	Новик Валерий	8.606
+763.	sinkarenko-evgenij	Шинкаренко Евгений	8.601
+764.	andrianov-aleksej	Андриянов Алексей Юрьевич	8.600
+765.	bozok-ivan	Божок Иван	8.598
+766.	anisenko-dmitrij	Анищенко Дмитрий	8.585
+767.	bodnaruk-vasiliy	Боднарук Василий	8.582
+768.	fostak-oksana	Фостяк Оксана	8.566
+769.	gamanuk-aleksandr	Гаманюк Александр	8.561
+770.	boar-urij	Бояр Юрий	8.551
+771.	nariznyj-ruslan	Нарижный Руслан	8.539
+772.	cepurnov-sergej	Чепурнов Сергей	8.533
+773.	zajcev-vadim	Зайцев Вадим	8.527
+774.	bondarenko-nikolaj	Бондаренко Николай	8.526
+775.	shakun-alexander	Шакун Александр	8.501
+776.	suhotin-evgenij	Сухотин Евгений	8.494
+777.	sopin-aleksej-urevic-1978	Сопин Алексей Юрьевич	8.482
+778.	kalinovskij-konstantin	Калиновский Константин	8.480
+779.	terenskij-roman	Теренский Роман	8.476
+780.	bavsin-oleg	Бавшин Олег	8.456
+781.	popov-viktor	Попов Виктор	8.455
+782.	antipov-andrej	Антипов Андрей	8.449
+783.	sahan-vladimir	Сахань Владимир	8.439
+784.	viktorov-evgenij	Викторов Евгений	8.432
+785.	samohval-vladimir	Самохвал Владимир	8.423
+786.	loboda-	Лобода Александр	8.420
+787.	gostisev-evgenij	Гостищев Евгений	8.420
+788.	legkaa-antonina	Легкая Антонина	8.403
+789.	grazdan-nikolaj	Граждан Николай	8.400
+790.	ruban-urij	Рубан Юрий	8.379
+791.	dudinov-valentin	Дудинов Валентин	8.352
+792.	dudka-alina	Дудка Алина	8.310
+793.	luc-bogdan-viktorovic	Луць Богдан Викторович	8.277
+794.	petrov-andrej	Петров Андрей	8.265
+795.	tomcisin-vitalij	Томчишин Виталий	8.212
+796.	dobromilskij-aleksandr	Добромильский Александр	8.199
+797.	romanova-lesa	Романова Леся	8.118
+798.	artamonov-anatolij	Артамонов Анатолий	8.114
+799.	gorainov-sergej	Горяинов Сергей	8.109
+800.	ostapenko-aleksandr	Остапенко Александр	8.089
+801.	nikiforov-denis	Никифоров Денис	8.076
+802.	gradil-nikoletta	Грядил Николетта	8.065
+803.	shmidt-igor	Шмидт Игорь	8.062
+804.	vysocin-leonid	Высочин Леонид	8.038
+805.	gavriluk-evgenij	Гаврилюк Евгений	7.977
+806.	snesar-mihail	Снесарь Михаил	7.957
+807.	leonenko-dmitriy	Леоненко Дмитрий	7.905
+808.	logaj-pavel	Логай Павел	7.860
+809.	cakran-vadim	Чакрян Вадим	7.855
+810.	stepnev-sergej	Степнев Сергей	7.774
+811.	skodkin-kirill	Шкодкин Кирилл	7.622
+812.	drejman-oleg	Дрейман Олег	7.521
+813.	illovajskij-valerij	Илловайский Валерий	7.492
+814.	maleev-andrej	Малеев Андрей Николаевич	7.467
+815.	kidanov-artem	Киданов Артём	7.360
+816.	trembac-vladislav	Трембач Владислав Сергеевич	7.349
+817.	smirnov-dmitrij	Смирнов Дмитрий Игоревич	7.317
+818.	semenovic-oleg	Семенович Олег	7.271
+819.	guranova-maria	Гурьянова Мария	7.267
+820.	vorobev-maksim	Воробьёв Максим	7.231
+821.	sidorenko-denis	Сидоренко Денис	7.135
+822.	meserakov-denis	Мещеряков Денис	7.066
+823.	fesko-roman	Фесько Роман	6.905
+824.	dodatko-konstantin-1980	Додатко Константин	6.774
+825.	solodovnik-alina	Солодовник Алина	6.586
+826.	elizarov-kirill	Елизаров Кирилл	5.691
