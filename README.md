@@ -1,4 +1,4 @@
-# Table Tennis IT Cup Kharkiv Dnepr Open 2019
+# Table Tennis IT Cup Dnepr Open 2019
 
 1. [Цели и задачи](#1-Цели-и-задачи)
 2. [Участники турнира](#2-Участники-турнира)
